@@ -1,7 +1,6 @@
-# Questions pour le projet MitoPoC
+# Questions pour le projet MitoChat
 
 Ce document regroupe des questions types destinées aux différents utilisateurs du POC (cliniciens, chercheurs, patients).  
-Les questions servent de jeu de test pour le chatbot RAG et comme cahier des besoins.
 
 ---
 
