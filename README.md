@@ -1,12 +1,13 @@
-# MitoChat – Intégration de données mitochondriales
+# MitoChat – Mitochondrial Data Integration
 
-Ce projet explore l’intégration et la préparation de données pour les maladies mitochondriales,
-dans le but de réduire l’errance diagnostique via un pipeline d’IA/RAG.
+This project explores the integration and preparation of data for mitochondrial diseases,
+with the goal of reducing diagnostic delay through an AI/RAG pipeline.
 
-## Structure du projet
+## Project Structure
 
-- `data/pivot_output/` : Résultats de transformation en format pivot (JSON, JSONL)
-- `notebooks/` : Notebooks pour création et exploration de pivots
+* `data/pivot_output/` : Transformation results in pivot format (JSON, JSONL)
+* `notebooks/` : Notebooks for creating and exploring pivots
+* `scripts/` : Scripts
 
 ## Installation
 
@@ -15,14 +16,16 @@ git clone https://github.com/AxelBone/MitoChat.git
 cd MitoChat
 ```
 
+## Steps
+To construct
 
-## Etapes
 
-### Préparation des des données
-- MitoCarta 3.0
-- ClinVar
-- GeneReviews
-- OMIM
-- Orphanet
-- HPO
+### Data
+See Databases.md
 
+
+
+### Development Questions
+
+* How to distinguish mitochondrial diseases from other diseases?
+* What precautions could be taken to avoid this problem?
