@@ -24,8 +24,6 @@ To construct
 See Databases.md
 
 
-
 ### Development Questions
 
-* How to distinguish mitochondrial diseases from other diseases?
-* What precautions could be taken to avoid this problem?
+* 
