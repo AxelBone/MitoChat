@@ -259,6 +259,44 @@ def parse_pdf_with_pymupdf(pdf_path: str) -> List[Dict[str, Any]]:
     return elems
 
 
+GENEREVIEWS_HEADINGS = [
+    "Summary","Clinical characteristics","Diagnosis/testing","Management","Surveillance",
+    "Agents/circumstances to avoid","Genetic counseling","Suggestive Findings","Clinical Criteria",
+    "Molecular Genetic Testing","Clinical Characteristics","Genotype-Phenotype Correlations",
+    "Penetrance","Nomenclature","Prevalence","Genetically Related Disorders","Differential Diagnosis",
+    "Evaluation Following Initial Diagnosis","Treatment of Manifestations","Therapies Under Investigation",
+    "Mode of Inheritance","Risk to Family Members","Offspring of a proband","Other family members",
+    "Related Genetic Counseling Issues","Prenatal Testing and Preimplantation Genetic Testing",
+    "Resources","Molecular Genetics"
+]
+
+
+def preprocess_genereviews_text(txt: str) -> str:
+    t = txt
+    t = re.sub(r"\.(?=[A-Z])", ". ", t)
+    for h in GENEREVIEWS_HEADINGS:
+        t = re.sub(rf"\s*{re.escape(h)}\b", f"\n\n{h}\n", t)
+    t = re.sub(r"(Table\s+\d+\.?)", r"\n\n\1\n", t, flags=re.IGNORECASE)
+    t = re.sub(r"(Figure\s+\d+\.?)", r"\n\n\1\n", t, flags=re.IGNORECASE)
+    t = re.sub(r"Email:\s*\S+@\S+", "", t, flags=re.IGNORECASE)
+    t = re.sub(r"[ \t]+", " ", t)
+    t = re.sub(r"\n{3,}", "\n\n", t)
+    return t.strip()
+
+
+def parse_plain_text_enhanced(path: str) -> List[Dict[str, Any]]:
+    with open(path, "r", encoding="utf-8") as f:
+        raw = f.read()
+    txt = preprocess_genereviews_text(raw)
+    blocks = [b.strip() for b in re.split(r"\n{2,}", txt) if b.strip()]
+    elems = []
+    for b in blocks:
+        is_heading = (len(b) < 120 and b in GENEREVIEWS_HEADINGS) or re.match(r"^(Table|Figure)\s+\d+", b, re.I)
+        cat = "Title" if is_heading else "NarrativeText"
+        elems.append({"text": b, "page_number": None, "category": cat})
+    return elems
+
+
 def parse_plain_text(path: str) -> List[Dict[str, Any]]:
     with open(path, "r", encoding="utf-8") as f:
         txt = f.read()
@@ -291,7 +329,7 @@ def make_pdf_chunks(
 
         if cat == "table":
             meta = {
-                "source": "pdf",
+                "source": "genereviews",
                 "doc_id": doc_id,
                 "doc_title": doc_title,
                 "section": current_section,
@@ -304,7 +342,7 @@ def make_pdf_chunks(
         parts = split_text(text, max_tokens=max_tokens, overlap=overlap)
         for p in parts:
             meta = {
-                "source": "pdf",
+                "source": "genereviews",
                 "doc_id": doc_id,
                 "doc_title": doc_title,
                 "section": current_section,
@@ -328,41 +366,38 @@ def make_variant_records(variants_json: Dict[str, Any]) -> List[Dict[str, Any]]:
         if isinstance(mc, str) and "|" in mc:
             consequence = mc.split("|", 1)[1]
         rsid = ensure_rsid(rec.get("rsid"))
-        af_exac = info.get("AF_EXAC")
-        af_exac_v = None
-        if af_exac is not None:
-            try:
-                af_exac_v = float(af_exac)
-            except Exception:
-                af_exac_v = clean_decimal_string(str(af_exac))
 
+        # diseases
         diseases = []
         clndn = info.get("CLNDN")
         if clndn:
             diseases = [d.strip().replace("_", " ") for d in str(clndn).split("|") if d.strip()]
 
-        text_view = (
-            f"Variant {rec.get('variant_id')} in {rec.get('gene_symbol')} "
-            f"({clnhgvs or 'HGVS N/A'}). ClinVar significance: {clnsig or clnsig_raw}. "
-            f"Diseases: {', '.join(diseases) or 'N/A'}. Consequence: {consequence or 'N/A'}. "
-            f"rsID: {rsid or 'N/A'}. Build: {build or 'unknown'}. "
-            f"Review: {info.get('CLNREVSTAT') or 'N/A'}."
-        )
-
+        # Position as int when possible
         position = rec.get("position")
         try:
-            position = int(position)
+            position_int = int(position)
         except Exception:
-            pass
+            position_int = None
+
+        # Enriched text to improve exact lookups and semantic recall
+        text_view = (
+            f"Variant {rec.get('variant_id')} | gene_symbol: {rec.get('gene_symbol')} | "
+            f"chromosome: {rec.get('chromosome')} | position: {rec.get('position')} | "
+            f"rsid: {rsid or 'N/A'} | HGVS: {clnhgvs or 'N/A'} | "
+            f"clinical_significance: {clnsig or clnsig_raw or 'N/A'} | "
+            f"diseases: {', '.join(diseases) or 'N/A'} | consequence: {consequence or 'N/A'} | "
+            f"review_status: {info.get('CLNREVSTAT') or 'N/A'} | build: {build or 'unknown'}"
+        )
 
         meta = {
-            "source": "json_variants",
+            "source": "clinvar",  # renamed
             "json_key": key,
             "variant_id": rec.get("variant_id"),
             "gene_symbol": rec.get("gene_symbol"),
             "gene_id": rec.get("gene_id"),
             "chromosome": rec.get("chromosome"),
-            "position": position,
+            "position": position_int if position_int is not None else rec.get("position"),
             "ref": rec.get("ref"),
             "alt": rec.get("alt"),
             "clnhgvs": clnhgvs,
@@ -446,7 +481,7 @@ def make_gene_records(genes_json: Dict[str, Any]) -> List[Dict[str, Any]]:
                 return None
 
         meta = {
-            "source": "json_genes",
+            "source": "mitocarta",  # renamed
             "json_key": key,
             "symbol": symbol,
             "ensembl_id": rec.get("ensembl_id"),
@@ -502,6 +537,29 @@ def save_docstore(records: List[Dict[str, Any]], index_dir: str):
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 
+def build_and_save_index_for_subcorpus(
+    subcorpus: List[Dict[str, Any]],
+    name: str,
+    embed_model_name: str,
+    embed_batch: int,
+    embed_normalize: bool,
+    index_dir: str,
+):
+    if not subcorpus:
+        return False
+    texts = [r["text"] for r in subcorpus]
+    X, _ = build_embeddings(texts, model_name=embed_model_name, batch_size=embed_batch, normalize=embed_normalize)
+    ids = list(range(len(subcorpus)))
+    ix = build_faiss_index(X, ids)
+    os.makedirs(index_dir, exist_ok=True)
+    faiss.write_index(ix, os.path.join(index_dir, f"index_{name}.faiss"))
+    with open(os.path.join(index_dir, f"docstore_{name}.jsonl"), "w", encoding="utf-8") as f:
+        for rec in subcorpus:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    return True
+
+
+
 def load_pdf_elements(path: str, prefer_unstructured: bool) -> Tuple[List[Dict[str, Any]], str]:
     doc_title = None
     if path.lower().endswith(".pdf"):
@@ -515,18 +573,32 @@ def load_pdf_elements(path: str, prefer_unstructured: bool) -> Tuple[List[Dict[s
                 break
         return elems, doc_title
     else:
-        elems = parse_plain_text(path)
-        if elems and re.match(r"^[A-Z][A-Za-z0-9 \-\(\):]{5,}$", elems[0]["text"]):
-            doc_title = elems[0]["text"]
+        elems = parse_plain_text_enhanced(path)
+        if elems:
+            # first non-generic Title as doc title if available
+            for el in elems:
+                if el["category"] == "Title" and el["text"] not in GENEREVIEWS_HEADINGS:
+                    doc_title = el["text"]; break
+            if not doc_title:
+                doc_title = Path(path).stem
         return elems, doc_title
+
+
+def get_chunk_params_for_path(path: str, cfg: Dict[str, Any]) -> Tuple[int, int]:
+    ing = cfg.get("ingestion", {}) or {}
+    is_pdf_or_txt = path.lower().endswith(".pdf") or path.lower().endswith(".txt")
+    if is_pdf_or_txt:
+        return (
+            int(ing.get("chunk_tokens_pdf", ing.get("chunk_tokens", 700))),
+            int(ing.get("chunk_overlap_pdf", ing.get("chunk_overlap", 100))),
+        )
+    return int(ing.get("chunk_tokens", 700)), int(ing.get("chunk_overlap", 100))
 
 
 def main(config_path: Optional[str] = None):
     cfg = read_config(config_path)
 
     # Ingestion / embedding params
-    chunk_tokens = int(cfg["ingestion"]["chunk_tokens"])
-    chunk_overlap = int(cfg["ingestion"]["chunk_overlap"])
     use_unstructured = bool(cfg["ingestion"]["use_unstructured"])
 
     embed_model_name = cfg["embedding"]["model_name"]
@@ -542,7 +614,7 @@ def main(config_path: Optional[str] = None):
     pdf_files, variant_json_files, gene_json_files = expand_inputs_from_cfg(cfg)
 
     if not pdf_files and not variant_json_files and not gene_json_files:
-        raise RuntimeError("No input files found. Check paths.pdf_inputs / variants_inputs / genes_inputs in config.yaml")
+        raise RuntimeError("No input files found. Check paths.genereviews_inputs / clinvar_inputs / mitocarta_inputs (or legacy pdf_path/variants_path/genes_path) in config.yaml")
 
     corpus: List[Dict[str, Any]] = []
 
@@ -553,10 +625,12 @@ def main(config_path: Optional[str] = None):
         try:
             pdf_elements, doc_title = load_pdf_elements(pdf_path, prefer_unstructured=use_unstructured)
             doc_id = os.path.basename(pdf_path)
+            tok, ov = get_chunk_params_for_path(pdf_path, cfg)
             pdf_chunks = make_pdf_chunks(
                 pdf_elements, doc_id=doc_id, doc_title=doc_title,
-                max_tokens=chunk_tokens, overlap=chunk_overlap
+                max_tokens=tok, overlap=ov
             )
+
             # tag license/source + source_file
             for ch in pdf_chunks:
                 ch["metadata"]["license"] = pdf_meta_note
@@ -613,6 +687,24 @@ def main(config_path: Optional[str] = None):
 
     print(f"Total chunks/records: {len(corpus)}")
 
+    # Optional: per-source subindices
+    indexing = cfg.get("indexing", {}) or {}
+    build_sub = bool(indexing.get("build_subindices", True))
+
+    genereviews_corpus = [r for r in corpus if (r.get("metadata", {}).get("source") == "genereviews")]
+    clinvar_corpus = [r for r in corpus if (r.get("metadata", {}).get("source") == "clinvar")]
+    mitocarta_corpus = [r for r in corpus if (r.get("metadata", {}).get("source") == "mitocarta")]
+
+    subindices = {"genereviews": False, "clinvar": False, "mitocarta": False}
+    if build_sub:
+        print("Building per-source subindices...")
+        subindices["genereviews"] = build_and_save_index_for_subcorpus(genereviews_corpus, "genereviews", embed_model_name,
+                                                                       embed_batch, embed_normalize, index_dir) or False
+        subindices["clinvar"] = build_and_save_index_for_subcorpus(clinvar_corpus, "clinvar", embed_model_name,
+                                                                   embed_batch, embed_normalize, index_dir) or False
+        subindices["mitocarta"] = build_and_save_index_for_subcorpus(mitocarta_corpus, "mitocarta", embed_model_name,
+                                                                     embed_batch, embed_normalize, index_dir) or False
+
     # 4) Embeddings
     texts = [r["text"] for r in corpus]
     X, model = build_embeddings(
@@ -629,49 +721,57 @@ def main(config_path: Optional[str] = None):
     save_docstore(corpus, index_dir)
     meta = {
         "embed_model_class": model.__class__.__name__,
-        "embed_model_name": embed_model_name,  # from config
+        "embed_model_name": embed_model_name,
         "sentence_embedding_dimension": int(X.shape[1]) if isinstance(X, np.ndarray) and X.ndim == 2 else None,
         "normalize": embed_normalize,
         "index_type": "IndexIDMap2(IndexFlatIP)",
         "total_chunks": len(corpus),
         "inputs": {
-            "pdf_files": pdf_files,
-            "variant_json_files": variant_json_files,
-            "gene_json_files": gene_json_files,
+            "genereviews_files": pdf_files,
+            "clinvar_json_files": variant_json_files,
+            "mitocarta_json_files": gene_json_files,
         },
+        # Reflect actual build status (True only if we built and saved the subindex)
+        "subindices": {
+            "genereviews": bool(subindices.get("genereviews")),
+            "clinvar": bool(subindices.get("clinvar")),
+            "mitocarta": bool(subindices.get("mitocarta")),
+        },
+        "id_maps_saved": bool(indexing.get("save_id_maps", True)),
     }
+
+    # Optional: exact-ID maps for fast lookup (e.g., "X:155026961:C:A", "rs1234", gene symbols)
+    save_id_maps = bool(indexing.get("save_id_maps", True))
+    id_maps = None
+    if save_id_maps:
+        id_maps = {
+            "variant_id_to_idx": {},  # unified docstore idx -> list
+            "rsid_to_idx": {},
+            "gene_symbol_to_idxs": {},
+        }
+        for i, r in enumerate(corpus):
+            md = r.get("metadata", {})
+            vid = md.get("variant_id")
+            if vid:
+                id_maps["variant_id_to_idx"].setdefault(str(vid), []).append(i)
+            rs = md.get("rsid")
+            if rs:
+                # store without 'rs' and with 'rs' for convenience
+                rs_clean = str(rs).lower().replace("rs", "")
+                id_maps["rsid_to_idx"].setdefault(rs_clean, []).append(i)
+                id_maps["rsid_to_idx"].setdefault(str(rs).lower(), []).append(i)
+            gs = md.get("gene_symbol") or md.get("symbol")
+            if gs:
+                id_maps["gene_symbol_to_idxs"].setdefault(str(gs).upper(), []).append(i)
+
+        with open(os.path.join(index_dir, "id_maps.json"), "w", encoding="utf-8") as f:
+            json.dump(id_maps, f, ensure_ascii=False, indent=2)
+
     os.makedirs(index_dir, exist_ok=True)
     with open(os.path.join(index_dir, "meta.json"), "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
     print(f"Done. Index written to: {index_dir}")
 
-
-    # 4) Embeddings
-    texts = [r["text"] for r in corpus]
-    X, model = build_embeddings(texts, model_name=embed_model_name, batch_size=embed_batch, normalize=embed_normalize)
-
-    # 5) FAISS
-    print("Building FAISS index...")
-    ids = list(range(len(corpus)))
-    index = build_faiss_index(X, ids)
-
-    # 6) Persist
-    save_index(index, index_dir)
-    save_docstore(corpus, index_dir)
-    # safer meta: do not introspect model.name_or_path (not present on some versions)
-    embed_dim = int(X.shape[1]) if isinstance(X, np.ndarray) and X.ndim == 2 else None
-    meta = {
-        "embed_model_class": model.__class__.__name__,
-        "embed_model_name": embed_model_name,  # from config.yaml
-        "sentence_embedding_dimension": embed_dim,
-        "normalize": embed_normalize,
-        "index_type": "IndexIDMap2(IndexFlatIP)",
-        "total_chunks": len(corpus),
-    }
-
-    with open(os.path.join(index_dir, "meta.json"), "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
-    print(f"Done. Index written to: {index_dir}")
 
 
 if __name__ == "__main__":
