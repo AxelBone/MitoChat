@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/rag_evaluation.schema.json",
+  "title": "RAG Evaluation Record",
+  "description": "Schéma complet pour les exemples d'évaluation RAG multi-sources.",
+  "type": "object",
+  "required": ["id", "query", "ground_truth", "context_v1", "context_v2", "type_question", "difficulty", "profile"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identifiant unique (UUID ou hash)."
+    },
+    "query": {
+      "type": "string",
+      "description": "Question posée au système RAG."
+    },
+    "ground_truth": {
+      "type": "string",
+      "description": "Réponse correcte justifiée par le contexte."
+    },
+    "context_v1": {
+      "type": "array",
+      "description": "Liste de contextes strictement nécessaires pour répondre correctement. Liste obtenue par le retrieval",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["text", "source", "document", "type"],
+        "properties": {
+          "text": { "type": "string" },
+          "source": { "type": "string", "description": "Nom de la base ou corpus (ClinVar, Mitocarta, PDF...)" },
+          "document": { "type": "string", "description": "Nom du fichier ou identifiant de document" },
+          "page": { "type": ["integer", "null"], "description": "Numéro de page si applicable" },
+          "position": { "type": ["string", "null"], "description": "Emplacement ou ligne dans le document" },
+          "type": { "type": "string", "enum": ["text", "table", "image", "metadata"], "description": "Nature du contenu" }
+        }
+      }
+    },
+    "context_v2": {
+      "type": "array",
+      "description": "Liste de contextes élargis ou bruités (pertinents + redondants). Liste obtenue par le retrieval.",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/properties/context_v1/items"
+      }
+    },
+    "type_question": {
+      "type": "string",
+      "enum": [
+        "faits-directs",
+        "synthèse multi-documents",
+        "raisonnement causal",
+        "comparatif",
+        "suivi de conversation",
+        "robustesse"
+      ],
+      "description": "Catégorie cognitive de la question."
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["facile", "intermédiaire", "difficile"],
+      "description": "Niveau de complexité (évaluation manuelle ou heuristique)."
+    },
+    "profile": {
+      "type": "string",
+      "enum": ["patient", "professionnel"],
+      "description": "Type d’utilisateur visé par la question."
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Métadonnées de suivi et d’annotation.",
+      "required": ["created_at"],
+      "properties": {
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Horodatage ISO 8601 de la création."
+        },
+        "annotator": { "type": ["string", "null"], "description": "Nom ou identifiant de l’annotateur." },
+        "validated": { "type": "boolean", "default": false },
+        "source_files": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Liste des fichiers d’où proviennent les contextes."
+        },
+        "auto_generated": {
+          "type": "object",
+          "properties": {
+            "query": { "type": "boolean" },
+            "ground_truth": { "type": "boolean" },
+            "contexts": { "type": "boolean" },
+            "labels": { "type": "boolean" }
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Mots-clés thématiques (ex: 'mitochondrie', 'variant', 'diagnostic')."
+        }
+      }
+    },
+    "generated_answer": {
+      "type": ["string", "null"],
+      "description": "Réponse produite par le modèle RAG (pour comparaison avec ground_truth)."
+    },
+    "evaluation_scores": {
+      "type": ["object", "null"],
+      "description": "Scores RAGAS calculés pour cet exemple.",
+      "properties": {
+        "faithfulness": { "type": "number" },
+        "answer_relevance": { "type": "number" },
+        "context_precision": { "type": "number" },
+        "context_recall": { "type": "number" }
+      }
+    },
+    "feedback": {
+      "type": ["string", "null"],
+      "description": "Commentaire libre de l’évaluateur."
+    },
+    "linked_questions": {
+      "type": ["array", "null"],
+      "items": { "type": "string" },
+      "description": "Liste d’identifiants d’autres questions du même sujet ou fil de conversation."
+    },
+    "language": {
+      "type": "string",
+      "default": "fr",
+      "description": "Langue de la question et des réponses."
+    },
+    "version": {
+      "type": ["string", "null"],
+      "description": "Version du corpus (ex: ClinVar v2025)."
+    }
+  }
+}
