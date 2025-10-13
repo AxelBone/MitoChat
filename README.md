@@ -26,4 +26,3 @@ See Databases.md
 
 ### Development Questions
 
-* 
