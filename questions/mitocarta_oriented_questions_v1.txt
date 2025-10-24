@@ -1,0 +1,329 @@
+# === QUESTIONS MITOCARTA (VERSION FRANÇAISE FORMATTÉE) ===
+# Format compatible GeneReviews / bases structurées
+# Traduction : ChatGPT (GPT-5) – 2025
+# ---------------------------------------------------------
+
+# --- IDENTIFIANT ENSEMBL → SYMBOLE DE GÈNE ---
+- Catégorie: Faits directs / correspondance identifiant–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: correspondance Ensembl–symbole
+  Question: Quel est le symbole du gène humain correspondant à l’identifiant Ensembl ENSG00000134375 ?
+  Réponse: Le symbole du gène correspondant à l’identifiant Ensembl ENSG00000134375 est TIMM17A.
+  Source: MitoCarta (2025)
+  Section: Correspondance identifiant–symbole
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / correspondance identifiant–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: correspondance Ensembl–symbole
+  Question: Quel est le symbole du gène humain correspondant à l’identifiant Ensembl ENSG00000130348 ?
+  Réponse: Le symbole du gène correspondant à l’identifiant Ensembl ENSG00000130348 est QRSL1.
+  Source: MitoCarta (2025)
+  Section: Correspondance identifiant–symbole
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / correspondance identifiant–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: correspondance Ensembl–symbole
+  Question: Quel est le symbole du gène humain correspondant à l’identifiant Ensembl ENSG00000082515 ?
+  Réponse: Le symbole du gène correspondant à l’identifiant Ensembl ENSG00000082515 est MRPL22.
+  Source: MitoCarta (2025)
+  Section: Correspondance identifiant–symbole
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / correspondance identifiant–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: correspondance Ensembl–symbole
+  Question: Quel est le symbole du gène humain correspondant à l’identifiant Ensembl ENSG00000110717 ?
+  Réponse: Le symbole du gène correspondant à l’identifiant Ensembl ENSG00000110717 est NDUFS8.
+  Source: MitoCarta (2025)
+  Section: Correspondance identifiant–symbole
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / correspondance identifiant–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: correspondance Ensembl–symbole
+  Question: Quel est le symbole du gène humain correspondant à l’identifiant Ensembl ENSG00000164366 ?
+  Réponse: Le symbole du gène correspondant à l’identifiant Ensembl ENSG00000164366 est CCDC127.
+  Source: MitoCarta (2025)
+  Section: Correspondance identifiant–symbole
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+
+# --- LOCALISATION SUB-MITOCHONDRIALE ---
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: localisation sub-mitochondriale
+  Question: Quelle est la localisation sub-mitochondriale du gène PDHA2 ?
+  Réponse: Le gène PDHA2 est localisé dans la matrice mitochondriale.
+  Source: MitoCarta (2025)
+  Section: Localisation sub-mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: localisation sub-mitochondriale
+  Question: Quelle est la localisation sub-mitochondriale du gène NDUFS2 ?
+  Réponse: Le gène NDUFS2 est localisé dans la membrane interne mitochondriale (MIM).
+  Source: MitoCarta (2025)
+  Section: Localisation sub-mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: localisation sub-mitochondriale
+  Question: Quelle est la localisation sub-mitochondriale du gène ACOT7 ?
+  Réponse: Le gène ACOT7 est localisé dans la matrice mitochondriale.
+  Source: MitoCarta (2025)
+  Section: Localisation sub-mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: localisation sub-mitochondriale
+  Question: Quelle est la localisation sub-mitochondriale du gène APEX1 ?
+  Réponse: Le gène APEX1 est localisé dans la matrice mitochondriale.
+  Source: MitoCarta (2025)
+  Section: Localisation sub-mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: localisation sub-mitochondriale
+  Question: Quelle est la localisation sub-mitochondriale du gène CPOX ?
+  Réponse: Le gène CPOX est localisé dans la membrane interne mitochondriale (MIM).
+  Source: MitoCarta (2025)
+  Section: Localisation sub-mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+
+# --- PREUVES EXPÉRIMENTALES D’INCLUSION ---
+- Catégorie: Données expérimentales / inclusion dans MitoCarta
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: preuves expérimentales d’inclusion
+  Question: Quelles preuves expérimentales soutiennent l’inclusion du gène MCCC1 dans MitoCarta ?
+  Réponse: L’inclusion du gène MCCC1 dans MitoCarta 3.0 est étayée par les éléments suivants : littérature, signal TargetP, homologue rickettsial, domaine protéique mitochondrial, induction, coexpression+, MS/MS++.
+  Source: MitoCarta (2025)
+  Section: Preuves expérimentales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / inclusion dans MitoCarta
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: preuves expérimentales d’inclusion
+  Question: Quelles preuves expérimentales soutiennent l’inclusion du gène DCAKD dans MitoCarta ?
+  Réponse: L’inclusion du gène DCAKD dans MitoCarta 3.0 est étayée par GFP, homologue mitochondrial de levure, homologue rickettsial, domaine protéique mitochondrial, coexpression et MS/MS.
+  Source: MitoCarta (2025)
+  Section: Preuves expérimentales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / inclusion dans MitoCarta
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: preuves expérimentales d’inclusion
+  Question: Quelles preuves expérimentales soutiennent l’inclusion du gène GRSF1 dans MitoCarta ?
+  Réponse: L’inclusion du gène GRSF1 dans MitoCarta 3.0 est étayée par APEX_matrix, domaine protéique mitochondrial, induction, coexpression et MS/MS.
+  Source: MitoCarta (2025)
+  Section: Preuves expérimentales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / inclusion dans MitoCarta
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: preuves expérimentales d’inclusion
+  Question: Quelles preuves expérimentales soutiennent l’inclusion du gène MTFP1 dans MitoCarta ?
+  Réponse: L’inclusion du gène MTFP1 dans MitoCarta 3.0 est étayée par littérature, induction, coexpression et MS/MS+.
+  Source: MitoCarta (2025)
+  Section: Preuves expérimentales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / inclusion dans MitoCarta
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: preuves expérimentales d’inclusion
+  Question: Quelles preuves expérimentales soutiennent l’inclusion du gène SPR dans MitoCarta ?
+  Réponse: L’inclusion du gène SPR dans MitoCarta 3.0 est étayée par homologue rickettsial, domaine protéique mitochondrial, induction, coexpression et MS/MS++.
+  Source: MitoCarta (2025)
+  Section: Preuves expérimentales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+
+# --- LONGUEUR PROTÉIQUE DES GÈNES ---
+- Catégorie: Faits directs / caractéristiques protéiques
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: longueur de la protéine
+  Question: Quelle est la longueur de la protéine codée par le gène CYC1 ?
+  Réponse: Le gène CYC1 code une protéine de 325 acides aminés.
+  Source: MitoCarta (2025)
+  Section: Caractéristiques protéiques
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / caractéristiques protéiques
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: longueur de la protéine
+  Question: Quelle est la longueur de la protéine codée par le gène COA7 ?
+  Réponse: Le gène COA7 code une protéine de 231 acides aminés.
+  Source: MitoCarta (2025)
+  Section: Caractéristiques protéiques
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / caractéristiques protéiques
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: longueur de la protéine
+  Question: Quelle est la longueur de la protéine codée par le gène HADHB ?
+  Réponse: Le gène HADHB code une protéine de 474 acides aminés.
+  Source: MitoCarta (2025)
+  Section: Caractéristiques protéiques
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+  # --- DÉTECTION PAR MS/MS DANS LES TISSUS ---
+- Catégorie: Données expérimentales / expression tissulaire
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: détection par spectrométrie de masse
+  Question: Dans combien de tissus le gène NIT1 a-t-il été détecté par MS/MS ?
+  Réponse: Le gène NIT1 a été détecté dans 12 tissus : cerveau, cervelet, tronc cérébral, moelle épinière, rein, foie, tissu adipeux, intestin grêle, côlon, estomac, placenta et testicule.
+  Source: MitoCarta (2025)
+  Section: Expression tissulaire mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / expression tissulaire
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: détection par spectrométrie de masse
+  Question: Dans combien de tissus le gène IMMP2L a-t-il été détecté par MS/MS ?
+  Réponse: Le gène IMMP2L a été détecté dans 7 tissus : cervelet, tronc cérébral, foie, muscle squelettique, tissu adipeux, côlon et testicule.
+  Source: MitoCarta (2025)
+  Section: Expression tissulaire mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / expression tissulaire
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: détection par spectrométrie de masse
+  Question: Dans combien de tissus le gène COX11 a-t-il été détecté par MS/MS ?
+  Réponse: Le gène COX11 a été détecté dans 6 tissus : cerveau, cervelet, moelle épinière, muscle squelettique, côlon et placenta.
+  Source: MitoCarta (2025)
+  Section: Expression tissulaire mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / expression tissulaire
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: détection par spectrométrie de masse
+  Question: Dans combien de tissus le gène MRPL43 a-t-il été détecté par MS/MS ?
+  Réponse: Le gène MRPL43 a été détecté dans un seul groupe expérimental global englobant 14 tissus.
+  Source: MitoCarta (2025)
+  Section: Expression tissulaire mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Données expérimentales / expression tissulaire
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: détection par spectrométrie de masse
+  Question: Dans combien de tissus le gène AFG1L a-t-il été détecté par MS/MS ?
+  Réponse: Le gène AFG1L a été détecté dans 9 tissus : cerveau, cervelet, moelle épinière, cœur, tissu adipeux, intestin grêle, côlon, estomac et placenta.
+  Source: MitoCarta (2025)
+  Section: Expression tissulaire mitochondriale
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+
+# --- LOCALISATION MITOCHONDRIALE (COMPARTIMENT) ---
+- Catégorie: Faits directs / localisation mitochondriale
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: compartiment mitochondrial
+  Question: Quels gènes sont localisés dans la membrane mitochondriale selon MitoCarta 3.0 ?
+  Réponse: Les gènes localisés dans la membrane sont : AIFM2, GPAM, ARMCX6, MGST1, IFI27, ABCD3, CCDC127, ABCA9, NAT8L, SPTLC2, MTFR2, DCAKD, PRXL2A, DNAJC4, ALDH3A2, MGARP, STOM, C15orf48, ABCD2, ABCD1, DHRS7B, COMT, TMEM205, ARMCX2, HTATIP2, PLGRKT, ADCY10, MTFP1, LETMD1, PEX11B, MTFR1, COMTD1, TDRKH, RDH14.
+  Source: MitoCarta (2025)
+  Section: Localisation mitochondriale par compartiment
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+
+# --- VOIES MÉTABOLIQUES ---
+- Catégorie: Faits directs / voie métabolique
+  Difficulté: avancée
+  Profil: professionnel
+  Type_question: appartenance à une voie métabolique
+  Question: Quels gènes sont impliqués dans la traduction protéique mitochondriale ?
+  Réponse: Les gènes impliqués dans la traduction mitochondriale sont : QRSL1, MRM2, ERAL1, MTG2, FASTKD2, CARS2, WARS2, MALSU1, MRPL48, DAP3, MRPL33, MRPL52, MRPL34, MRPL51, GARS1, TARS2, MRPS30, MRPS6, MRPL38, TSFM, MTFMT, MTRES1, MTRF1L, MRPL2, MRPL21, PTCD3, MRPL42, GTPBP10, MRPL19, GRSF1, TACO1, IARS2, MRPL37, PDF, MRPS11, MTIF2, YBEY, MRPS34, SARS2, KARS1, MRPS12, MRPS16, MRPL49, MRPL13, RMND1, PARS2, GATC, MTIF3, MRPS28, MRPL50, GATB, MRPL23, MRPL44, MRPS14, NGRN, MRPS15, TUFM, MRPL43, MRPS31, MRPL35, COX14, MPV17L2, MRPL22, MRPL46, FARS2, MRPL40, MRPL16, AARS2, MRPL36, COA3, EARS2, MRPS9, HARS2, MRPS21, METTL17, MRPS5, MRPL18, MRPL47, C12orf65, PPA2, MRPS35, HEMK1, DDX28, TFB1M, MIEF1, MRPS24, MRPL39, GFM2, MRPL9, MRPL32, MRPL53, MRPL1, MRPS10, DARS2, MRPL11, RARS2, MRPL27, MRPL41, MTERF4, MRPL3, GFM1, TIMM21, NOA1, VARS2, MRPL20, METAP1D, MRPL45, MRPL10, MRPS18B, MRRF, MRPL57, CHCHD1, MRPL24, NARS2, MRPL4, MRPS33, LARS2, MRPL30, MRPL54, NSUN4, MRPS25, MRPS23, EXD2, DHX30, MTG1, MRPS7, MTRF1, MRPL28, PUSL1, GADD45GIP1, MRPS26, MARS2, OXA1L, YARS2, MRPS17, LRPPRC, MRM3, MRPS18A, MRPS36, MTERF3, MRPL14, TRMT61B, MRPS27, AURKAIP1, SLIRP, GUF1, MRPL58, MRPS2, MRPL15, MRPS22, MRPL12, MRPL55, MRPS18C, RBFA et MRPL17.
+  Source: MitoCarta (2025)
+  Section: Voies métaboliques mitochondriales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
+- Catégorie: Faits directs / voie métabolique
+  Difficulté: avancée
+  Profil: professionnel
+  Type_question: appartenance à une voie métabolique
+  Question: Quels gènes sont impliqués dans la Fusion mitochondriale ?
+  Réponse: Les gènes impliqués dans la Fusion mitochondriale sont : MIGA1, ARL2, MTCH2, PLD6, MIGA2, OMA1, OPA1, MFN1 et MFN2.
+  Source: MitoCarta (2025)
+  Section: Voies métaboliques mitochondriales
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: mitocarta_2025.json
+
