@@ -1,0 +1,2271 @@
+===== SÉRIE 1 =====
+Thème : Manifestations et évolution clinique de l’HSP non compliquée  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition  
+   Question : Quels sont les signes moteurs typiques observés au cours de la paraplégie spastique héréditaire non compliquée ?  
+   Réponse : Les manifestations dominantes sont une spasticité bilatérale et progressive des membres inférieurs, associée à une faiblesse musculaire variable touchant les muscles des cuisses et des jambes. Les réflexes ostéo-tendineux sont vifs, avec des réponses plantaires en extension. Les membres supérieurs et la parole restent préservés.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Clinical characteristics  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1509.pdf
+
+2️⃣ Catégorie : Interprétation de données / tableau  
+   Difficulté : moyenne  
+   Type_question : interprétation  
+   Question : Quelles anomalies génétiques sont principalement responsables de cette maladie et comment influencent-elles le phénotype clinique ?  
+   Réponse : Plus de 20 gènes sont impliqués dans l’HSP non compliquée. Les formes autosomiques dominantes représentent environ 75–80 % des cas, dominées par les mutations de SPAST (SPG4, ~40 %) et ATL1 (SPG3A, ~10–15 %). Ces gènes affectent la fonction axonale et la dynamique du réticulum endoplasmique, entraînant une dégénérescence progressive des voies corticospinales.
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Causes of Uncomplicated HSP  
+   Page : 2–3  
+   Type_support : tableau  
+   Document_name: Bookshelf_NBK1509.pdf
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : modérée  
+   Type_question : mécanisme physiopathologique  
+   Question : Comment les anomalies moléculaires entraînent-elles les symptômes moteurs observés ?
+   Réponse : Les mutations identifiées perturbent les protéines impliquées dans le transport axonal et l’organisation du réticulum endoplasmique. Cette altération compromet la survie des axones longs des voies corticospinales, entraînant une dégénérescence motrice progressive limitée aux membres inférieurs.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Causes of Uncomplicated HSP  
+   Page : 3–4  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1509.pdf
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic différentiel et évaluation génétique  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : énumération  
+   Question : Quelles affections métaboliques peuvent mimer une HSP non compliquée ?  
+   Réponse : Les principales affections métaboliques à exclure sont la dystonie sensible à la dopa, les déficits en MTHFR, les troubles du métabolisme de la cobalamine, la glycine encéphalopathie, les déficits du cycle de l’urée, la xanthomatose cérébrotendineuse et les carences en vitamine B12 ou cuivre.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Differential diagnosis  
+   Page : 5–6  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1509.pdf
+
+2️⃣ Catégorie : Raisonnement clinique  
+   Difficulté : moyenne  
+   Type_question : stratégie diagnostique  
+   Question : Quels outils génétiques sont recommandés pour identifier le gène causal de cette maladie?  
+   Réponse : L’approche repose sur un panel multigénique incluant les gènes connus d’HSP (SPAST, ATL1, SPG7, SPG11, etc.) ou sur un séquençage d’exome ou de génome complet. Le choix dépend du contexte familial et du coût. Le séquençage global permet d’identifier de nouveaux gènes ou des variantes rares.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Evaluation strategies  
+   Page : 6–7  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1509.pdf
+
+3️⃣ Catégorie : Interprétation / raisonnement clinique  
+   Difficulté : modérée  
+   Type_question : interprétation de résultats  
+   Question : Comment un diagnostic peut-il être confirmé en l’absence d’antécédent familial connu ?  
+   Réponse : La présence d’une mutation pathogène identifiée dans un gène associé à l’HSP, même sans antécédent familial, suffit à confirmer le diagnostic. Dans ces cas, un variant de novo ou un mosaïcisme parental doit être envisagé. Une étude génétique des parents est alors recommandée pour évaluer le risque de récidive.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Genetic counseling  
+   Page : 10–11  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1509.pdf
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge, surveillance et prévention  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : traitement / gestion  
+   Question : Quelles mesures thérapeutiques sont proposées pour atténuer la spasticité dans l’HSP non compliquée ?  
+   Réponse : Le traitement est symptomatique : kinésithérapie avec exercices d’étirement et d’équilibre, utilisation de baclofène ou tizanidine, injections de toxine botulique, et dans certains cas pompes à baclofène. Les approches de stimulation électrique ou d’anodal spinal stimulation ont montré un effet modéré.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Treatment of manifestations  
+   Page : 8–9  
+   Type_support : texte / tableau  
+   Document_name: Bookshelf_NBK1509.pdf
+
+2️⃣ Catégorie : Surveillance / prévention  
+   Difficulté : moyenne  
+   Type_question : suivi médical  
+   Question : Quelle fréquence de suivi est recommandée pour ces patients ?  
+   Réponse : Les évaluations neurologiques et fonctionnelles doivent être réalisées une à deux fois par an, avec surveillance urologique, orthopédique et nutritionnelle selon les besoins. Une réévaluation du plan de rééducation est indiquée à chaque visite pour ajuster la prise en charge.  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Surveillance  
+   Page : 9–10  
+   Type_support : tableau  
+   Document_name: Bookshelf_NBK1509.pdf
+
+3️⃣ Catégorie : Ressources / accompagnement  
+   Difficulté : facile  
+   Type_question : information / orientation  
+   Question : Quelles organisations ou fondations soutiennent les patients et familles concernés par cette maladie ?  
+   Réponse : Plusieurs organismes internationaux offrent information et soutien : Spastic Paraplegia Foundation (États-Unis), EURO-HSP (Europe), HSP Research Foundation (Australie), Tom Wahlig Stiftung (Allemagne) et A.I. Vi.P.S. (Italie).  
+   Source : GeneReviews – Hedera P. (2025)  
+   Section : Resources  
+   Page : 12–13  
+   Type_support : texte / liste  
+   Document_name: Bookshelf_NBK1509.pdf
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Comparaison  
+  Difficulté : modérée  
+  Profil : professionnel  
+  Type_question : comparaison  
+  Question : En quoi la transmission autosomique dominante diffère-t-elle de la transmission autosomique récessive dans l’HSP non compliquée ?  
+  Réponse : Les formes dominantes se transmettent d’un parent atteint à 50 % des descendants, tandis que les formes récessives nécessitent la présence de deux variants pathogènes. Les formes dominantes sont plus fréquentes et à début plus tardif.
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Genetic counseling  
+  Page : 10–12  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1509.pdf
+
+- Catégorie : Synthèse / raisonnement global  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : synthèse  
+  Question : Comment la variabilité phénotypique influence-t-elle la stratégie de conseil génétique et la prédiction de la maladie ?
+  Réponse : La grande hétérogénéité clinique et l’influence de facteurs épigénétiques et environnementaux rendent les prédictions incertaines. Une mutation identique peut entraîner des formes bénignes ou sévères au sein d’une même famille, nécessitant un conseil génétique nuancé et individualisé.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Genetic counseling  
+  Page : 11–12  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1509.pdf
+  Avis : Peu précise 
+
+- Catégorie : Synthèse multi-domaines  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : intégration  
+  Question : Comment les données génétiques, cliniques et thérapeutiques interagissent-elles pour orienter la prise en charge de l’HSP non compliquée ?  
+  Réponse : L’identification génétique précise aide à exclure des formes traitables, oriente la surveillance des complications spécifiques et facilite la planification du suivi familial. L’intégration de ces données permet une approche personnalisée, centrée sur la fonction et la qualité de vie du patient. 
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Summary + Management  
+  Page : 1, 7–10  
+  Type_support : texte / synthèse  
+  Document_name: Bookshelf_NBK1509.pdf
+
+
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Faits directs / épidémiologie  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : prévalence et distribution  
+  Question : Quelle est la proportion estimée de formes autosomiques dominantes par rapport aux formes récessives dans les HSP non compliquées ?  
+  Réponse : Les formes autosomiques dominantes représentent environ 75 à 80 % des cas d’HSP non compliquée, tandis que les formes autosomiques récessives en constituent 20 à 25 %, avec une fréquence accrue dans les populations à forte consanguinité.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Causes of Uncomplicated HSP  
+  Page : 2–3  
+  Type_support : texte / synthèse  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Interprétation de données / physiopathologie fonctionnelle  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : mécanisme neurophysiologique  
+  Question : Quelles anomalies du contrôle moteur supérieur expliquent la spasticité observée dans l’HSP non compliquée ?  
+  Réponse : La spasticité découle d’une dégénérescence progressive des axones longs du tractus corticospinal, altérant la modulation inhibitrice des réflexes médullaires et entraînant une hyperexcitabilité motoneuronale.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Clinical characteristics / Pathophysiology  
+  Page : 1–2  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Raisonnement causal / corrélation génotype-phénotype  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : génétique et variabilité  
+  Question : Pourquoi la connaissance du gène causal ne permet-elle pas de prédire précisément la sévérité du phénotype dans l’HSP non compliquée ?  
+  Réponse : Le phénotype dépend de multiples facteurs épigénétiques, environnementaux et modificateurs génétiques. Une même mutation peut entraîner des degrés variables de spasticité et de progression au sein d’une même famille, illustrant une expressivité variable et une pénétrance incomplète.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Causes of Uncomplicated HSP / Genetic Counseling  
+  Page : 3–11  
+  Type_support : texte analytique  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Interprétation / neuroimagerie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : imagerie cérébrale  
+  Question : Quels signes radiologiques peuvent être observés dans les formes autosomiques récessives d’HSP non compliquée ?  
+  Réponse : La majorité des patients ont une IRM cérébrale normale, mais certaines formes liées à SPG11 ou SPG7 peuvent présenter un amincissement du corps calleux ou une atrophie spinale discrète, sans altération significative de la substance blanche.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Differential Diagnosis / Imaging  
+  Page : 6–7  
+  Type_support : texte / observation d’imagerie  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Comparaison / clinique et génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : distinction phénotypique  
+  Question : En quoi les formes dominantes dues à SPAST diffèrent-elles cliniquement des formes récessives causées par SPG7 ?  
+  Réponse : Les formes SPAST (SPG4) sont généralement à début adulte, à progression lente, avec spasticité isolée. Les formes SPG7 sont souvent plus précoces et peuvent présenter une légère ataxie, une dysarthrie ou une atteinte oculaire subclinique.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Causes of Uncomplicated HSP / Table 2  
+  Page : 4–5  
+  Type_support : tableau comparatif  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Recommandation / rééducation fonctionnelle  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : pratique clinique  
+  Question : Quelle approche multidisciplinaire est recommandée pour optimiser la fonction motrice des patients atteints d’HSP non compliquée ?  
+  Réponse : Une équipe coordonnée de neurologue, kinésithérapeute, orthophoniste, urologue et ergothérapeute est essentielle. Le programme doit inclure exercices d’étirement, renforcement postural, orthèses adaptées, et soutien psychologique ou social.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Management / Table 3–4  
+  Page : 8–9  
+  Type_support : tableau de recommandations  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Surveillance / prévention secondaire  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : suivi longitudinal  
+  Question : Quels éléments doivent être régulièrement réévalués pour prévenir les complications de l’HSP non compliquée ?  
+  Réponse : Le tonus musculaire, la marche, les fonctions vésicales et la nutrition doivent être contrôlés annuellement. Les adaptations d’aides techniques et les besoins en soutien social sont revus à chaque visite.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Surveillance / Table 5  
+  Page : 9–10  
+  Type_support : texte / tableau de suivi  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Conseil génétique / éthique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : transmission et décision reproductive  
+  Question : Quels éléments doivent être discutés lors du conseil génétique avant une grossesse dans une famille avec HSP non compliquée ?  
+  Réponse : Il est recommandé d’aborder les options de dépistage génétique préimplantatoire, le risque de récurrence selon le mode de transmission, la variabilité phénotypique et les limites de prédiction de sévérité. Le test moléculaire des apparentés asymptomatiques doit être envisagé avant conception.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Genetic Counseling / Family Planning  
+  Page : 11–12  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+- Catégorie : Recherche / innovation thérapeutique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : perspective translationnelle  
+  Question : Quelles sont les pistes thérapeutiques émergentes mentionnées pour les HSP non compliquées ?  
+  Réponse : Les études récentes explorent la stimulation électrique spinale directe (tsDCS), la modulation de la plasticité neuronale et des approches de thérapie génique ciblant les mutations fréquentes comme celles de SPAST.  
+  Source : GeneReviews – Hedera P. (2025)  
+  Section : Management / Treatment perspectives  
+  Page : 9, 14–15  
+  Type_support : texte / recherche clinique  
+  Document_name: Bookshelf_NBK1509.pdf  
+
+
+===== SÉRIE 1 =====
+Thème : Manifestations cliniques et évolution du syndrome de Costeff  
+Profil cible : professionnel  
+Série : mixte
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition  
+   Question : Quelles sont les principales caractéristiques cliniques du syndrome de Costeff ?  
+   Réponse : Le syndrome de Costeff se manifeste avant l’âge de dix ans par une atrophie optique bilatérale entraînant une baisse progressive de l’acuité visuelle, souvent accompagnée d’un nystagmus, puis par un trouble extrapyramidal de type choréoathétoïde et une spasticité évolutive. L’évolution est globalement stable avec un léger déclin cognitif possible.  
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Clinical Characteristics  
+   Page : 4–5  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : énumération de signes cliniques  
+   Question : Quels types de troubles moteurs peuvent être observés chez les patients ?  
+   Réponse : Les troubles moteurs incluent des mouvements choréoathétoïdes, une spasticité avec démarche instable, une hyperréflexie tendineuse, la présence du signe de Babinski et une ataxie légère.  
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Clinical Characteristics / Motor Disability  
+   Page : 4–5  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : relation génotype-phénotype  
+   Question : Pourquoi les corrélations génotype-phénotype sont-elles limitées dans ce syndrome ?  
+   Réponse : Les corrélations génotype-phénotype sont restreintes car seules quelques variantes pathogènes du gène OPA3 ont été identifiées. La majorité des cas, notamment chez les sujets d’origine juive irakienne, partagent la même mutation fondatrice (c.143-1G>C), mais la sévérité clinique varie considérablement même au sein d’une même famille.  
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Genotype-Phenotype Correlations  
+   Page : 5  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic, prise en charge et conseil génétique  
+Profil cible : professionnel / patient mixte  
+Série : mixte
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : moyenne  
+   Type_question : critère diagnostique  
+   Question : Quels sont les critères diagnostiques principaux du syndrome de Costeff ?
+   Réponse : Le diagnostic repose sur l’association d’une atrophie optique bilatérale précoce, d’un trouble du mouvement extrapyramidal et d’une excrétion urinaire accrue de 3-méthylglutaconate et de 3-méthylglutarate, confirmée par l’identification de variants bialléliques pathogènes du gène OPA3.  
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 2–3  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+2️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : prise en charge clinique  
+   Question : Quelle approche thérapeutique est recommandée ?
+   Réponse : Le traitement est symptomatique et multidisciplinaire, incluant la prise en charge de la déficience visuelle, de la spasticité et des troubles du mouvement. Des interventions de physiothérapie, d’orthophonie et d’ergothérapie sont indiquées, ainsi qu’un suivi ophtalmologique annuel.
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Management / Treatment of Manifestations  
+   Page : 8–10  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : avancée  
+   Type_question : diagnostic différentiel  
+   Question : En quoi se différencie-t-il du syndrome de Behr ?
+   Réponse : Les deux partagent une atrophie optique et une dégénérescence spino-cérébelleuse, mais le syndrome de Costeff présente une excrétion urinaire élevée de 3-méthylglutaconate et un trouble extrapyramidal fréquent, absents dans la majorité des cas de syndrome de Behr.  
+   Source : GeneReviews – Anikster Y. (2020)  
+   Section : Differential Diagnosis  
+   Page : 7  
+   Type_support : texte et tableau comparatif  
+   Document_name: Bookshelf_NBK1473.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Synthèse multi-documents  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : intégration d’informations génétiques et cliniques  
+  Question : Comment la mutation du gène OPA3 perturbe-t-elle la fonction mitochondriale dans le syndrome de Costeff ?  
+  Réponse : Le gène OPA3 code une protéine de 179 acides aminés localisée dans la membrane mitochondriale externe. Les variants pathogènes entraînent une perte de fonction, altérant le métabolisme lipidique mitochondrial et contribuant à la dégénérescence optique et neurologique.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Molecular Genetics / Molecular Pathogenesis  
+  Page : 13–14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Interprétation de données / tableaux  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : interprétation de données cliniques  
+  Question : Quels sont les principaux désordres métaboliques pouvant s’accompagner d’une 3-méthylglutaconique acidurie et comment se distingue le syndrome de Costeff parmi eux ?
+  Réponse : Plusieurs erreurs innées du métabolisme, comme les syndromes liés aux gènes AGK, AUH, CLPB, DNAJC19, SERAC1, TAZ et OPA3, peuvent entraîner une excrétion accrue de 3-méthylglutaconate. Le syndrome de Costeff se distingue par l’association spécifique d’une déficience intellectuelle variable, de troubles du mouvement et d’une atrophie optique.
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Differential Diagnosis  
+  Page : 6  
+  Type_support : texte descriptif  
+  Document_name: Bookshelf_NBK1473.pdf  
+ 
+- Catégorie : Métacognitive / incertitude  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : réflexion sur les limites de la connaissance  
+  Question : Quelles sont les principales incertitudes actuelles dans la compréhension du syndrome de Costeff ?  
+  Réponse : Les principales incertitudes concernent les mécanismes cellulaires précis liant la perte de fonction d’OPA3 à la neurodégénérescence, la variabilité interindividuelle des symptômes et l’absence de corrélation génotype-phénotype robuste. Aucune thérapie étiologique n’est actuellement disponible.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Molecular Pathogenesis / Clinical Variability  
+  Page : 5–14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1473.pdf
+  
+  
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Faits directs / épidémiologie  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : prévalence et population  
+  Question : Quelle est la population la plus touchée par le syndrome de Costeff et quel est le taux de portage connu ?  
+  Réponse : Le syndrome de Costeff touche principalement la population juive d’origine irakienne, avec une mutation fondatrice c.143-1G>C du gène OPA3. Le taux de portage y est estimé entre 1:20 et 1:30. Des cas isolés ont été signalés chez des familles kurdes, afghanes et indiennes.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Prevalence  
+  Page : 5  
+  Type_support : texte descriptif  
+  Document_name: Bookshelf_NBK1473.pdf 
+  Avis : question différente mais réponse très proche avec une précédente 
+
+- Catégorie : Raisonnement causal / biochimie métabolique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme pathogénique  
+  Question : Quel lien existe entre l’excrétion urinaire de 3-méthylglutaconate et le dysfonctionnement mitochondrial dans le syndrome de Costeff ?  
+  Réponse : L’augmentation du 3-méthylglutaconate résulte d’une perturbation du métabolisme du leucine et du shunt du mévalonate, secondaire à une altération de la fonction mitochondriale causée par la perte de fonction d’OPA3. Ce marqueur reflète un défaut énergétique, non une anomalie primaire du cycle des acides organiques.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Molecular Pathogenesis / Differential Diagnosis  
+  Page : 6–8, 14  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Comparaison / génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : distinction allélique  
+  Question : En quoi les formes autosomiques dominantes d’OPA3 diffèrent-elles cliniquement du syndrome de Costeff ?  
+  Réponse : Les formes dominantes liées à OPA3 sont associées à une atrophie optique isolée avec cataracte et parfois lipodystrophie, sans 3-méthylglutaconique acidurie ni troubles extrapyramidaux, contrairement au syndrome de Costeff, autosomique récessif.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Genetically Related Disorders  
+  Page : 5–6  
+  Type_support : texte comparatif  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Raisonnement clinique / suivi  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : surveillance à long terme  
+  Question : Quels examens de suivi doivent être réalisés régulièrement pour évaluer la progression du syndrome de Costeff ?  
+  Réponse : Un examen ophtalmologique annuel est recommandé, associé à un suivi neurologique pour la spasticité et les troubles moteurs. Une évaluation orthopédique et un suivi nutritionnel complètent la surveillance multidisciplinaire.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Surveillance / Table 5  
+  Page : 10–11  
+  Type_support : tableau / texte  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Interprétation de données / physiopathologie cellulaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : fonction mitochondriale  
+  Question : Quelle est la localisation subcellulaire et le rôle de la protéine OPA3 dans les tissus affectés ?  
+  Réponse : OPA3 est une protéine de la membrane mitochondriale externe impliquée dans le métabolisme lipidique et la régulation de la morphologie mitochondriale. Elle est fortement exprimée dans les tissus à haute demande énergétique, notamment les muscles, le cortex cérébral et la rétine.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Molecular Pathogenesis  
+  Page : 13–14  
+  Type_support : texte / schéma moléculaire  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Conseil génétique / dépistage familial  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : test génétique  
+  Question : Quelle stratégie est utilisée pour identifier les porteurs hétérozygotes du gène OPA3 dans les familles à risque ?  
+  Réponse : Le dépistage repose sur une analyse moléculaire ciblée du variant familial connu, notamment le c.143-1G>C. Les porteurs sont asymptomatiques et leur statut ne peut être déterminé par analyse biochimique, car leur excrétion de 3-méthylglutaconate est normale.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Genetic Counseling / Carrier Detection  
+  Page : 11–12  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Pratique clinique / précautions  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : agents à éviter  
+  Question : Quels agents ou conditions doivent être évités chez les patients atteints de syndrome de Costeff ?  
+  Réponse : L’exposition au tabac, à l’alcool et aux médicaments susceptibles d’altérer la fonction mitochondriale doit être évitée, car ces facteurs aggravent le stress oxydatif et peuvent accélérer la détérioration neurologique.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Agents/Circumstances to Avoid  
+  Page : 10–11  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Recommandation / thérapies expérimentales  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : recherche translationnelle  
+  Question : Quelles approches thérapeutiques émergentes sont mentionnées pour le syndrome de Costeff ?  
+  Réponse : Aucune thérapie spécifique n’est disponible, mais la recherche explore des approches ciblant la restauration de la fonction mitochondriale, la modulation du stress oxydatif et des thérapies géniques expérimentales sur modèles OPA3.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Therapies Under Investigation  
+  Page : 11  
+  Type_support : texte / recherche translationnelle  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Cognition / neuropsychologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : profil neurocognitif  
+  Question : Quelle est la nature des altérations cognitives rapportées dans le syndrome de Costeff ?  
+  Réponse : La majorité des patients présentent une cognition intacte avec des performances préservées en apprentissage et mémoire auditive, bien qu’un léger déficit exécutif ou attentionnel puisse être observé dans certains cas.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Clinical Characteristics / Cognitive Impairment  
+  Page : 4–5  
+  Type_support : texte / données neuropsychologiques  
+  Document_name: Bookshelf_NBK1473.pdf  
+
+- Catégorie : Ressources / soutien familial  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : ressource et accompagnement  
+  Question : Quelles organisations peuvent accompagner les patients atteints du syndrome de Costeff et leurs familles ?  
+  Réponse : Les familles peuvent contacter le **Costeff Support Group** au Sheba Medical Center (Israël), **Metabolic Support UK**, et l’**Organic Acidemia Association**. Ces structures offrent un soutien médical, social et éducatif.  
+  Source : GeneReviews – Anikster Y. (2020)  
+  Section : Resources  
+  Page : 12–13  
+  Type_support : texte / ressource  
+  Document_name: Bookshelf_NBK1473.pdf  
+  
+  
+===== SÉRIE 1 =====
+Thème : Mécanismes physiopathologiques et bases génétiques de la PH1  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition de pathologie  
+   Question : Qu’est-ce que la lithiase rénale observée dans la forme classique de l’hyperoxalurie primaire de type 1 ?  
+   Réponse : Dans la PH1, la lithiase rénale correspond à la formation de cristaux insolubles d’oxalate de calcium dans le parenchyme ou le bassinet rénal, liée à une production hépatique excessive d’oxalate secondaire au déficit en alanine-glyoxylate aminotransférase (AGT).  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : moyenne  
+   Type_question : cause moléculaire  
+   Question : Comment la déficience en AGT conduit-elle à une accumulation systémique d’oxalate ?
+   Réponse : L’absence ou la réduction d’activité de l’enzyme AGT empêche la conversion du glyoxylate en glycine, redirigeant ce substrat vers la formation d’oxalate. L’oxalate, non métabolisable, s’accumule dans le plasma et précipite sous forme de cristaux de calcium oxalate dans les reins et d’autres organes.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Molecular Genetics / Pathogenesis  
+   Page : 28–29  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : avancée  
+   Type_question : comparaison de sous-types  
+   Question : En quoi cette maladie diffère-t-elle des types 2 et 3 d’hyperoxalurie primaire sur le plan biochimique et clinique ?  
+   Réponse : La PH1 est due à des variants bialléliques d’AGXT entraînant un excès d’oxalate et de glycolate, alors que la PH2 (GRHPR) s’accompagne d’une élévation du glycérolate et la PH3 (HOGA1) d’une augmentation du 4-hydroxy-2-oxoglutarate. Cliniquement, la PH1 est plus sévère, plus fréquemment associée à une néphrocalcinose et une insuffisance rénale terminale.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Differential Diagnosis / Table 5  
+   Page : 10–12  
+   Type_support : texte comparatif  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic, critères biologiques et corrélations génotype-phénotype  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : critère diagnostique  
+   Question : Quels éléments biologiques permettent de poser le diagnostic de PH1 ?  
+   Réponse : Le diagnostic repose sur une hyperoxalurie confirmée par une excrétion urinaire d’oxalate supérieure à 0,5 mmol/24h ou une élévation du taux plasmatique d’oxalate >50 µmol/L, associée à l’identification de variants bialléliques pathogènes du gène AGXT.
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 4–6  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : énumération d’outils diagnostiques  
+   Question : Quels examens complémentaires sont recommandés pour évaluer l’extension de la maladie chez un patient nouvellement diagnostiqué ?  
+   Réponse : L’évaluation inclut l’échographie rénale pour rechercher néphrocalcinose et calculs, la mesure du taux plasmatique et urinaire d’oxalate, l’examen ophtalmologique pour dépôts rétiniens, un bilan cardiaque (ECG, échocardiographie), et des radiographies osseuses en cas de suspicion d’oxalose systémique.
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Management / Evaluations Following Diagnosis  
+   Page : 15–16  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : relation génotype-phénotype  
+   Question : Pourquoi certains variants d’AGXT sont-ils dits « pyridoxine-répondants » ?
+   Réponse : Les variants tels que p.Gly170Arg, p.Phe152Ile et p.Ile244Thr entraînent une instabilité enzymatique partiellement compensable par la pyridoxine, cofacteur de l’AGT. La vitamine B6 agit comme chaperon moléculaire, stabilisant l’enzyme et réduisant la production d’oxalate.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Genotype-Phenotype Correlations  
+   Page : 8–9, 28–29  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge thérapeutique et prévention des complications  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : traitement de référence  
+   Question : Quelle est la stratégie thérapeutique actuelle pour réduire la production d’oxalate hépatique dans la PH1 ?  
+   Réponse : Les approches incluent la pyridoxine chez les porteurs de variants sensibles, les traitements par interférence ARN (lumasiran ou nedosiran) pour inhiber la production hépatique d’oxalate, et la transplantation hépatique pour restaurer une activité enzymatique normale d’AGT.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Management / Targeted Therapies  
+   Page : 16–20  
+   Type_support : texte et tableau thérapeutique  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+2️⃣ Catégorie : Interprétation de données / tableaux  
+   Difficulté : moyenne  
+   Type_question : interprétation de données cliniques  
+   Question : Quels principes de surveillance sont recommandés en fonction du stade de l’insuffisance rénale chez ces patients ?  
+   Réponse : Les patients en stades précoces de MRC (GFR >60 mL/min) nécessitent un suivi annuel de la fonction rénale, de l’échographie et des taux urinaires d’oxalate, alors que ceux aux stades 3–5 exigent une surveillance semestrielle à trimestrielle du taux plasmatique d’oxalate, des complications systémiques et des examens cardiaques et ophtalmologiques.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Management / Surveillance  
+   Page : 22–23  
+   Type_support : texte descriptif  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : physiopathologie des complications  
+   Question : Pourquoi l’atteinte osseuse et cardiaque apparaît-elle dans les formes avancées ?  
+   Réponse : Lorsque le débit de filtration glomérulaire chute en dessous de 30 mL/min/1.73 m², l’élimination rénale de l’oxalate devient insuffisante. L’hyperoxalémie entraîne alors une précipitation tissulaire systémique (oxalose), touchant notamment les os, la rétine et le myocarde.  
+   Source : GeneReviews – Milliner DS et al. (2024)  
+   Section : Clinical Characteristics / Oxalosis  
+   Page : 8–9  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1283.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Faits directs  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : épidémiologie  
+  Question : Quelle est la prévalence estimée de la PH1 dans la population générale ?  
+  Réponse : La prévalence est estimée entre 1/120 000 et 1/1 000 000 naissances vivantes, avec des taux plus élevés dans les populations à forte consanguinité comme au Moyen-Orient et en Afrique du Nord.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Prevalence  
+  Page : 9–10  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Liste / énumération  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : facteurs à éviter  
+  Question : Quels agents ou circonstances doivent être évités chez les patients atteints de PH1 ?  
+  Réponse : Il faut éviter la déshydratation, les anti-inflammatoires non stéroïdiens à fortes doses, les diurétiques de l’anse, les apports excessifs en vitamine C et les aliments riches en oxalate comme le chocolat, la rhubarbe et le starfruit.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Agents / Circumstances to Avoid  
+  Page : 23  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Comparaison  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : comparaison thérapeutique  
+  Question : En quoi les approches thérapeutiques par ARN interférence diffèrent-elles de la transplantation hépatique dans la PH1 ?  
+  Réponse : Les traitements par ARN interférence (lumasiran, nedosiran) réduisent la production hépatique d’oxalate sans modifier le gène AGXT, tandis que la transplantation hépatique corrige définitivement le déficit enzymatique. Les thérapies ARN sont moins invasives mais d’efficacité variable selon les patients.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Management / Targeted Therapies  
+  Page : 18–20  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1283.pdf  
+  
+  
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Conseil génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : transmission génétique  
+  Question : Quel est le mode de transmission de la PH1 et quel risque présente chaque frère ou sœur d’un patient atteint ?  
+  Réponse : La PH1 se transmet sur un mode autosomique récessif. Si les deux parents sont hétérozygotes pour un variant pathogène d’AGXT, chaque enfant a un risque de 25 % d’être atteint, 50 % d’être porteur asymptomatique et 25 % d’être indemne.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Genetic Counseling / Risk to Family Members  
+  Page : 25–26  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Diagnostic différentiel  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : différenciation pathologique  
+  Question : Comment distinguer une hyperoxalurie secondaire d’une forme primaire de type 1 sur le plan clinique et biologique ?  
+  Réponse : L’hyperoxalurie secondaire résulte d’un excès d’oxalate d’origine alimentaire, de malabsorption ou de toxicité (vitamine C, éthylène glycol), avec une oxalurie fluctuante et souvent associée à une hypercalciurie. La PH1, au contraire, se caractérise par une hyperoxalurie persistante d’origine endogène, une excrétion accrue de glycolate et la présence de variants bialléliques d’AGXT.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Differential Diagnosis / Secondary Hyperoxaluria  
+  Page : 13–14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Physiopathologie / mécanisme moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme cellulaire  
+  Question : Quel est le rôle du mauvais adressage mitochondrial de l’enzyme AGT dans certaines formes de PH1 ?  
+  Réponse : Certaines mutations, notamment p.Gly170Arg ou p.Phe152Ile associées au variant p.Pro11Leu, provoquent un “mistargeting” de l’AGT vers la mitochondrie au lieu du peroxysome. L’enzyme devient inactive dans la détoxification du glyoxylate, entraînant une accumulation d’oxalate hépatique.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Molecular Genetics / Mechanism of Disease  
+  Page : 28–29  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Pratique clinique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : suivi et prévention  
+  Question : Quelles sont les recommandations de surveillance clinique pendant la grossesse chez une femme atteinte de PH1 ?  
+  Réponse : La grossesse nécessite un suivi conjoint néphrologique et obstétrical avec maintien d’une hydratation optimale, poursuite éventuelle de la pyridoxine, et contrôle régulier de la fonction rénale et de la formation lithiasique. Les thérapies par interférence ARN doivent être suspendues par précaution, faute de données suffisantes sur leur sécurité.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Pregnancy Management  
+  Page : 24  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Dépistage familial / prévention secondaire  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : stratégie de dépistage  
+  Question : Pourquoi et comment le dépistage des apparentés asymptomatiques est-il recommandé dans la PH1 ?  
+  Réponse : En raison d’une forte variabilité intrafamiliale, les frères et sœurs d’un patient peuvent présenter une forme silencieuse de la maladie. Le dépistage par test génétique ciblé du gène AGXT permet un diagnostic précoce et une prise en charge préventive avant l’apparition d’une insuffisance rénale.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Evaluation of Relatives at Risk  
+  Page : 23–24  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Pronostic / évolution naturelle  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : évolution clinique  
+  Question : Quels sont les principaux déterminants pronostiques de l’évolution vers l’insuffisance rénale terminale dans la PH1 ?  
+  Réponse : Les facteurs de mauvais pronostic incluent la présence de néphrocalcinose, un début précoce des symptômes, une excrétion élevée d’oxalate urinaire, et la non-réponse à la pyridoxine. Les mutations nulles d’AGXT sont généralement associées à une progression plus rapide vers l’ESKD.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Clinical Characteristics / Prognosis  
+  Page : 7–8  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+- Catégorie : Thérapies innovantes  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : perspectives thérapeutiques  
+  Question : Quelles approches thérapeutiques émergentes sont actuellement à l’étude pour la PH1 ?  
+  Réponse : Les nouvelles stratégies incluent la thérapie génique par édition CRISPR/Cas9 ciblant le gène LDHA, les chaperons moléculaires pour stabiliser l’AGT, et des probiotiques oxalate-dégradants comme *Oxalobacter formigenes*. Ces approches visent à réduire durablement la production ou l’absorption d’oxalate.  
+  Source : GeneReviews – Milliner DS et al. (2024)  
+  Section : Therapies Under Investigation  
+  Page : 24–25  
+  Type_support : texte et recherche expérimentale  
+  Document_name: Bookshelf_NBK1283.pdf  
+
+===== SÉRIE 1 =====
+Thème : Caractéristiques cliniques et spectre tumoral du syndrome de prédisposition tumorale lié au gène FH  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition de la pathologie  
+   Question : Quelles sont les principales caractéristiques cliniques du syndrome de prédisposition tumorale lié au gène FH ?  
+   Réponse : Ce syndrome est caractérisé par la survenue de léiomyomes cutanés multiples, de fibromes utérins précoces et volumineux, et de carcinomes rénaux agressifs. Il peut aussi prédisposer à des phéochromocytomes ou paragangliomes selon certaines variantes spécifiques du gène FH.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : énumération des manifestations  
+   Question : Quels types de tumeurs ou lésions peuvent survenir chez les patients atteints d’un variant pathogène du gène FH ?  
+   Réponse : Les principales manifestations sont : léiomyomes cutanés multiples, fibromes utérins atypiques, carcinomes rénaux à cellules claires ou papillaires de type 2, et plus rarement phéochromocytomes, paragangliomes ou tumeurs à histologie indéterminée.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Clinical Description  
+   Page : 4–5  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : mécanisme moléculaire  
+   Question : Comment la perte d’activité de la fumarate hydratase contribue-t-elle au développement tumoral dans ce syndrome ?  
+   Réponse : La perte de fonction du gène FH perturbe le cycle de Krebs, entraînant une accumulation de fumarate. Ce métabolite agit comme un oncométabolite, stabilisant HIF1α, favorisant la glycolyse aérobie (effet Warburg) et l’expression de gènes proangiogéniques et prolifératifs.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Molecular Pathogenesis  
+   Page : 14–15  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic, corrélations génotype-phénotype et outils génétiques  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : critères diagnostiques  
+   Question : Quel test permet de confirmer le diagnostic de syndrome de prédisposition tumorale lié à FH ?  
+   Réponse : Le diagnostic est confirmé par la détection d’un variant pathogène hétérozygote du gène FH par analyse moléculaire ciblée ou panel multigénique incluant FH. L’immunohistochimie montrant une perte de FH et une positivité pour la S-(2-succino)cystéine peut soutenir le diagnostic.
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 3  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+2️⃣ Catégorie : Comparaison  
+   Difficulté : moyenne  
+   Type_question : comparaison syndromique  
+   Question : Comment distinguer ce syndrome par rapport à d’autres syndromes familiaux de cancer rénal ?  
+   Réponse : Contrairement au syndrome de Von Hippel-Lindau (VHL) ou au Birt-Hogg-Dubé (BHD), le syndrome FH associe des léiomyomes cutanés multiples et des fibromes utérins précoces à des carcinomes rénaux de type papillaire 2, sans hémangioblastomes ni kystes pulmonaires.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Differential Diagnosis / Table 3  
+   Page : 7–8  
+   Type_support : tableau descriptif  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : corrélation génotype-phénotype  
+   Question : Quels variants spécifiques du gène FH sont associées à un risque accru de phéochromocytome ou paragangliome ?  
+   Réponse : Plusieurs variants missense, notamment p.Glu53Lys, p.Arg74Ser, p.Ala117Pro, p.Ala194Thr, p.Thr234Ala, p.Leu303Ser et p.Cys434Tyr, augmentent le risque de phéochromocytome/paragangliome, indépendamment du risque de carcinome rénal ou de léiomyome.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Genotype-Phenotype Correlations  
+   Page : 6  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge clinique, surveillance et thérapeutiques ciblées  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : surveillance médicale  
+   Question : Quels examens de surveillance sont recommandés chez les personnes porteuses d’un variant pathogène FH ?  
+   Réponse : Un examen cutané tous les 1–2 ans, une IRM rénale annuelle à partir de 8–10 ans, une consultation gynécologique en cas de symptômes, et une surveillance biochimique et IRM corps entier tous les deux ans en cas de variants à risque de phéochromocytome/paragangliome.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Management / Surveillance  
+   Page : 9–10  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+2️⃣ Catégorie : Interprétation de données / tableaux  
+   Difficulté : moyenne  
+   Type_question : interprétation clinique  
+   Question : Quelle est la stratégie de prise en charge recommandée pour les carcinomes rénaux associés au syndrome FH ?  
+   Réponse : Le traitement repose sur une chirurgie précoce avec marges larges, préférentiellement une néphrectomie radicale, du fait du potentiel métastatique élevé. Les ablations percutanées sont déconseillées. Les thérapies combinant erlotinib-bevacizumab ou cabozantinib-nivolumab peuvent être envisagées pour les formes avancées.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Management / Treatment of Manifestations  
+   Page : 9  
+   Type_support : texte descriptif  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : mécanisme thérapeutique  
+   Question : Pourquoi les inhibiteurs de PARP sont-ils considérés comme une voie thérapeutique potentielle dans ce syndrome ?  
+   Réponse : L’accumulation de fumarate dans les cellules déficientes en FH perturbe la réparation par recombinaison homologue des cassures double brin, rendant ces tumeurs vulnérables aux inhibiteurs de PARP, qui exacerbent la létalité liée au stress génotoxique.  
+   Source : GeneReviews – Kamihara J. et al. (2025)  
+   Section : Therapies Under Investigation  
+   Page : 11  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1252.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Faits directs  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : épidémiologie  
+  Question : Quelle est la prévalence estimée des variants pathogènes du gène FH dans la population générale ?  
+  Réponse : La prévalence est estimée entre 1 sur 2 500 et 1 sur 3 200 individus, selon les bases de données BRAVO et gnomAD, ce qui suggère une sous-reconnaissance importante du syndrome FH.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Prevalence  
+  Page : 6–7  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1252.pdf  
+  Avis : Formulation de réponse étrange
+
+- Catégorie : Conseil génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : risque familial  
+  Question : Quel est le risque de transmission du syndrome FH pour les enfants d’un individu atteint ?  
+  Réponse : La transmission est autosomique dominante : chaque enfant a un risque de 50 % d’hériter du variant pathogène. La pénétrance et la gravité des manifestations sont variables et imprévisibles.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Genetic Counseling / Risk to Family Members  
+  Page : 12–13  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Comparaison  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : différenciation métabolique  
+  Question : En quoi la perte de FH diffère-t-elle de celle d’autres enzymes du cycle de Krebs comme SDH sur le plan tumoral ?  
+  Réponse : Alors que la perte de SDH entraîne une accumulation de succinate, la perte de FH provoque une accumulation de fumarate. Ces deux métabolites inhibent les dioxygénases α-cétoglutarate dépendantes, mais la signature épigénétique et les profils tumoraux diffèrent : les tumeurs FH-déficientes présentent un profil CIMP distinct et une forte expression de PD-L1.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Molecular Pathogenesis / Comparative Metabolism  
+  Page : 14–15  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Diagnostic / histopathologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : reconnaissance morphologique  
+  Question : Quels éléments histologiques permettent de suspecter une tumeur à déficit en fumarate hydratase ?  
+  Réponse : Les tumeurs FH-déficientes présentent un aspect d’œdème alvéolaire avec vaisseaux en “bois de cerf”, des cellules musculaires lisses à macronucléole entouré d’un halo clair, et des inclusions éosinophiles cytoplasmiques. Ces anomalies doivent amener à rechercher une perte d’expression de FH en immunohistochimie.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Clinical Characteristics / Uterine Leiomyomata  
+  Page : 5–6  
+  Type_support : texte et données histologiques  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Dépistage / prévention secondaire  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : stratégie de dépistage familial  
+  Question : Dans quel but et selon quelle modalité le dépistage génétique familial est-il recommandé dans le syndrome FH ?
+  Réponse : Le dépistage des apparentés asymptomatiques vise à identifier précocement les porteurs du variant FH afin de débuter la surveillance rénale dès l’enfance et d’éviter des explorations inutiles chez les non porteurs. Il repose sur un test moléculaire ciblé du variant familial connu.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Evaluation of Relatives at Risk  
+  Page : 10–11  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Pratique clinique / dermatologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : prise en charge symptomatique  
+  Question : Quelles options thérapeutiques sont disponibles pour soulager les léiomyomes cutanés douloureux associés au syndrome FH ?
+  Réponse : Les options incluent l’exérèse chirurgicale des lésions isolées, le laser CO₂, la cryothérapie et l’électrocoagulation. Le traitement médicamenteux repose sur des vasodilatateurs comme la nitroglycérine ou la nifédipine, et sur des agents de la douleur neuropathique tels que la gabapentine ou la duloxétine.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Management / Treatment of Manifestations  
+  Page : 9  
+  Type_support : texte clinique  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Physiopathologie moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : bioénergétique cellulaire  
+  Question : Quel rôle joue le métabolite fumarate dans la reprogrammation métabolique des cellules tumorales FH-déficientes ?
+  Réponse : L’accumulation de fumarate inhibe les dioxygénases dépendantes de l’α-cétoglutarate, entraînant une hyperméthylation de l’ADN et des histones (phénotype CIMP), ainsi qu’une activation de la voie HIF favorisant la glycolyse et la néoangiogenèse.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Molecular Pathogenesis  
+  Page : 14–15  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Pronostic / évolution  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : facteurs de pronostic  
+  Question : Quels éléments influencent le pronostic des carcinomes rénaux liés au syndrome FH ?  
+  Réponse : Le pronostic est défavorable en raison de la forte agressivité intrinsèque et du potentiel métastatique précoce. Le pronostic dépend du stade tumoral au diagnostic, du délai de détection, et de la qualité de la résection chirurgicale initiale. La survie médiane des formes avancées reste inférieure à deux ans.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Clinical Characteristics / Renal Cancer  
+  Page : 5–6  
+  Type_support : texte et données cliniques  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Conseil génétique / reproduction  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : options reproductives  
+  Question : Quelles sont les options de conseil génétique et de diagnostic prénatal disponibles pour les porteurs d’un variant pathogène FH ?  
+  Réponse : Une consultation génétique préconceptionnelle est recommandée. Le diagnostic prénatal et le diagnostic préimplantatoire sont possibles une fois le variant familial identifié. Une évaluation du partenaire est conseillée, certaines combinaisons bialléliques pouvant conduire à une acidurie fumarique sévère.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Genetic Counseling / Family Planning  
+  Page : 13–14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1252.pdf  
+
+- Catégorie : Ressources / données épidémiologiques et réseaux de soins  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : orientation vers ressources spécialisées  
+  Question : Quelles ressources cliniques et associations peuvent accompagner les patients atteints de syndrome FH ?  
+  Réponse : Les principales ressources incluent la **HLRCC Foundation** et la **Kidney Cancer Association**, qui fournissent informations, soutien et liens vers des centres d’expertise. Des recommandations de surveillance sont également disponibles via le réseau **NCCN Kidney Cancer Guidelines (v3.2025)**.  
+  Source : GeneReviews – Kamihara J. et al. (2025)  
+  Section : Resources  
+  Page : 13–14  
+  Type_support : texte et ressource clinique  
+  Document_name: Bookshelf_NBK1252.pdf 
+  
+ 
+===== SÉRIE 1 =====
+Thème : Caractéristiques cliniques et histoire naturelle de la PH3  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition de la pathologie  
+   Question : Quelles sont les principales caractéristiques cliniques de l’hyperoxalurie primaire de type 3 (PH3) ?  
+   Réponse : La PH3 se manifeste par des calculs rénaux récidivants à oxalate de calcium dès l’enfance, parfois accompagnés de néphrocalcinose. La fonction rénale reste généralement préservée, et aucun cas d’oxalose systémique n’a été rapporté. Les symptômes incluent douleurs, hématurie, infections urinaires et élimination de fragments calculeux.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : description symptomatique  
+   Question : Quels sont les signes cliniques précoces qui doivent faire évoquer cette maladie chez l’enfant ?  
+   Réponse : Les signes d’alerte incluent la survenue de calculs rénaux bilatéraux avant l’âge de 5 ans, une hématurie macroscopique récurrente, des douleurs abdominales ou lombaires liées aux calculs, des infections urinaires répétées et la présence de cristaux d’oxalate dans les urines.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Clinical Description  
+   Page : 4–5  
+   Type_support : texte clinique  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : mécanisme pathogénique  
+   Question : Quelle est la cause biochimique à son origine ?  
+   Réponse : La PH3 résulte d’un déficit de l’enzyme mitochondriale 4-hydroxy-2-oxoglutarate aldolase (HOGA1), impliquée dans le métabolisme de l’hydroxyproline. Cette déficience entraîne une accumulation de 4-hydroxy-2-oxoglutarate (HOG) et de 2,4-dihydroxyglutarate (DHG), précurseurs de l’oxalate, provoquant une surproduction d’oxalate hépatique.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Molecular Pathogenesis  
+   Page : 14  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic, biomarqueurs et corrélations biologiques  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : critère diagnostique  
+   Question : Quels paramètres biologiques soutiennent le diagnostic de PH3 ?  
+   Réponse : Le diagnostic repose sur une hyperoxalurie urinaire variable (>0,7 mmol/1,73 m²/24 h), une excrétion accrue d’HOG et de DHG, et la mise en évidence de variants bialléliques pathogènes du gène HOGA1.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 3–4  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+2️⃣ Catégorie : Interprétation de données / tableaux  
+   Difficulté : moyenne  
+   Type_question : analyse biologique  
+   Question : Comment interpréter la valeur du rapport oxalate/créatinine urinaire chez l’enfant ?  
+   Réponse : Le rapport oxalate/créatinine doit être interprété selon l’âge : <0,37 mmol/mmol avant 6 mois, <0,26 de 6 mois à 2 ans, <0,14 jusqu’à 5 ans et <0,08 après 6 ans. Des valeurs supérieures et persistantes après correction des apports calciques justifient un test génétique ciblé.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Diagnosis / Table 1  
+   Page : 3  
+   Type_support : tableau de référence  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : avancée  
+   Type_question : comparaison clinique et biochimique  
+   Question : En quoi diffère-t-elle des types 1 et 2 sur le plan du pronostic et de la sévérité ?
+   Réponse : La PH3 est plus bénigne, avec un risque d’insuffisance rénale terminale <3 % avant 40 ans, contre 64 % dans la PH1 et 34 % dans la PH2. Les taux d’oxalate et de néphrocalcinose sont également plus faibles, et aucune oxalose systémique n’a été décrite.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Differential Diagnosis / Table 3  
+   Page : 7–8  
+   Type_support : tableau comparatif  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge thérapeutique et suivi à long terme  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : stratégie de traitement  
+   Question : Quelles sont les recommandations de prise en charge de la PH3 pour prévenir les complications lithiasiques ?
+   Réponse : Le traitement repose sur un apport hydrique élevé (>2,5 L/m²/jour), la prise de citrate de potassium ou de sodium pour inhiber la cristallisation d’oxalate de calcium, la prévention des infections urinaires, et le traitement précoce des obstructions urinaires.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Management / Treatment of Manifestations  
+   Page : 9  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : prévention du déclin rénal  
+   Question : Pourquoi la fonction rénale est-elle généralement mieux préservée chez eux ?  
+   Réponse : Contrairement à la PH1 et la PH2, la production d’oxalate dans la PH3 est moins importante, et les taux plasmatiques d’oxalate restent faibles, limitant la précipitation systémique et la fibrose rénale. De plus, la fonction tubulaire est moins altérée.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Clinical Characteristics / Prognosis  
+   Page : 5–6  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK316514.pdf  
+   Avis : trop direct
+
+3️⃣ Catégorie : Interprétation de données  
+   Difficulté : moyenne  
+   Type_question : suivi biologique  
+   Question : Quels examens doivent être réalisés annuellement pour surveiller un patient stable atteint de cette maladie ?  
+   Réponse : Le suivi comprend l’évaluation des symptômes liés aux calculs, un dosage de créatinine et eGFR, une échographie rénale, la mesure du taux d’oxalate plasmatique, et une analyse des urines de 24 heures pour la supersaturation calcique.  
+   Source : GeneReviews – Milliner DS et al. (2023)  
+   Section : Management / Surveillance  
+   Page : 10  
+   Type_support : texte et protocole clinique  
+   Document_name: Bookshelf_NBK316514.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Faits directs  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : épidémiologie  
+  Question : Quelle est la prévalence estimée de la PH3 dans la population générale et quelles populations sont le plus à risque ?  
+  Réponse : La prévalence est d’environ 1/136 000, représentant 7–12 % des hyperoxaluries primaires. Elle est plus fréquente chez les personnes d’origine juive ashkénaze, où le variant fondateur c.944_946delAGG représente deux tiers des cas.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Prevalence / Table 4  
+  Page : 6–7, 14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Conseil génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : transmission héréditaire  
+  Question : Quel est le mode de transmission de la PH3 et le risque pour la fratrie d’un patient atteint ?  
+  Réponse : La PH3 se transmet sur un mode autosomique récessif. Si les deux parents sont porteurs, chaque enfant a 25 % de risque d’être atteint, 50 % d’être porteur sain et 25 % d’être indemne. Les porteurs hétérozygotes ne présentent pas de lithiase accrue.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Genetic Counseling / Risk to Family Members  
+  Page : 12–13  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Thérapies innovantes / recherche  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : perspectives thérapeutiques  
+  Question : Quelles approches expérimentales sont à l’étude pour réduire la production d’oxalate dans la PH3 ?  
+  Réponse : Les stratégies en développement ciblent l’inhibition hépatique de la LDH-A via des thérapies siRNA comme le nedosiran, ainsi que la modulation génétique du métabolisme hépatique par édition CRISPR/Cas9. Des inhibiteurs pharmacologiques de la LDH, tels que le stiripentol, sont également à l’étude.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Therapies Under Investigation  
+  Page : 11–12  
+  Type_support : texte et recherche translationnelle  
+  Document_name: Bookshelf_NBK316514.pdf  
+  
+  
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Diagnostic / dépistage familial  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : stratégie de dépistage ciblé  
+  Question : Pourquoi le dépistage génétique ciblé des apparentés asymptomatiques est-il recommandé dans les familles présentant une PH3 ?  
+  Réponse : Le dépistage moléculaire des variants HOGA1 chez les frères et sœurs du patient, même asymptomatiques, permet d’instaurer précocement une hydratation préventive et de surveiller la fonction rénale, évitant ainsi les lésions lithiasiques irréversibles.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Evaluation of Relatives at Risk  
+  Page : 10–11  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Physiopathologie / biochimie métabolique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme métabolique détaillé  
+  Question : Quel lien existe-t-il entre le métabolisme de l’hydroxyproline et la production d’oxalate dans la PH3 ?  
+  Réponse : Dans la PH3, la dégradation de l’hydroxyproline par la 4-hydroxy-2-oxoglutarate aldolase est interrompue, provoquant l’accumulation d’intermédiaires tels que le 4-hydroxy-2-oxoglutarate, convertis secondairement en glyoxylate, puis en oxalate. Ce mécanisme différencie la PH3 des types 1 et 2, où d’autres enzymes du cycle du glyoxylate sont en cause.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Molecular Pathogenesis  
+  Page : 14–15  
+  Type_support : texte métabolique  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Clinique / expression variable  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : hétérogénéité clinique  
+  Question : Quelle est la variabilité clinique observée dans la présentation de la PH3 entre l’enfance et l’âge adulte ?  
+  Réponse : Les enfants présentent souvent des coliques néphrétiques précoces liées à des calculs multiples, tandis que les adultes peuvent être diagnostiqués fortuitement à l’imagerie. La fréquence et la sévérité des lithiases décroissent avec l’âge, mais la maladie demeure chronique et récidivante tout au long de la vie.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Clinical Description  
+  Page : 4–5  
+  Type_support : texte clinique  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Pratique clinique / chirurgie et urologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : prise en charge chirurgicale  
+  Question : Quelles approches urologiques sont privilégiées pour la gestion des calculs rénaux chez les jeunes enfants atteints de PH3 ?  
+  Réponse : Chez les jeunes enfants, les interventions doivent minimiser les traumatismes rénaux : la néphrolithotomie percutanée ou l’urétéroscopie sont préférées à la lithotritie extracorporelle, souvent répétée et potentiellement néphrotoxique. Une coordination entre néphrologue et urologue est essentielle.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Management / Stone Management  
+  Page : 9–10  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Grossesse / prise en charge obstétricale  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : surveillance périnatale  
+  Question : Quels sont les principaux risques et recommandations pour les femmes atteintes de PH3 pendant la grossesse ?  
+  Réponse : La grossesse nécessite un suivi rapproché pour prévenir l’insuffisance rénale aiguë liée à l’hypovolémie ou à une obstruction lithiasique. Une hydratation continue, une surveillance rénale fréquente et la prise en charge immédiate des infections urinaires sont essentielles pour éviter les complications obstétricales.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Pregnancy Management  
+  Page : 11  
+  Type_support : texte clinique  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Diagnostic différentiel / pathologie secondaire  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : différenciation étiologique  
+  Question : Comment différencier une hyperoxalurie secondaire d’une PH3 sur le plan clinique et biologique ?  
+  Réponse : Les hyperoxaluries secondaires se caractérisent par une variabilité de l’oxalurie selon le régime, une hypercalciurie fréquente et un contexte de malabsorption ou d’apport alimentaire excessif. La PH3 se distingue par une hyperoxalurie persistante, des métabolites urinaires spécifiques (HOG, DHG) et la confirmation génétique HOGA1.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Differential Diagnosis / Secondary Hyperoxalurias  
+  Page : 8–9  
+  Type_support : texte comparatif  
+  Document_name: Bookshelf_NBK316514.pdf  
+
+- Catégorie : Ressources / recherche et registres  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : ressource scientifique  
+  Question : Quelles sont les principales ressources cliniques et de recherche disponibles pour les patients atteints de PH3 ?  
+  Réponse : Les patients peuvent être suivis dans le cadre du **Rare Kidney Stone Consortium (RKSC)** et de l’**Oxalosis and Hyperoxaluria Foundation (OHF)**. Le registre **OxalEurope** coordonne les données épidémiologiques et favorise la recherche translationnelle sur la physiopathologie et les essais cliniques PH.  
+  Source : GeneReviews – Milliner DS et al. (2023)  
+  Section : Resources / Chapter Notes  
+  Page : 13–15  
+  Type_support : texte et ressource scientifique  
+  Document_name: Bookshelf_NBK316514.pdf  
+  
+===== SÉRIE 1 =====
+Thème : Caractéristiques cliniques et formes évolutives de la LBSL  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition clinique  
+   Question : Quelles sont les principales caractéristiques cliniques de la leucoencéphalopathie avec atteinte du tronc cérébral et de la moelle (LBSL) ?  
+   Réponse : La LBSL est une encéphalomyélopathie héréditaire caractérisée par une atteinte progressive de la substance blanche, associée à une spasticité, une ataxie et une atteinte du tronc cérébral. Elle se distingue par la présence d’un taux de lactate élevé dans la moelle et les régions cérébrales profondes.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : distinction des formes cliniques  
+   Question : Quelles sont les principales différences entre les formes infantile, juvénile et adulte ?  
+   Réponse :  
+   - **Forme infantile** : début avant 2 ans, retard moteur, hypotonie, évolution rapide vers la perte de marche.  
+   - **Forme juvénile** : début entre 4 et 12 ans, spasticité et ataxie progressives.  
+   - **Forme adulte** : début après 16 ans, évolution lente avec troubles pyramidaux et sensoriels légers.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Clinical Description  
+   Page : 4–5  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+3️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : lien physiopathologique  
+   Question : Quel est le mécanisme pathogénique sous-jacent liée au gène DARS2 ?  
+   Réponse : Les variants bialléliques du gène DARS2 entraînent un déficit en aspartyl-ARNt synthétase mitochondriale, perturbant la traduction des protéines mitochondriales et altérant la phosphorylation oxydative, d’où une production réduite d’énergie et une accumulation de lactate.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Molecular Pathogenesis  
+   Page : 14–15  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic, imagerie et confirmation moléculaire  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : critère diagnostique  
+   Question : Quels éléments permettent de poser le diagnostic de LBSL chez un patient suspect ?  
+   Réponse : Le diagnostic repose sur la combinaison d’un tableau clinique typique (spasticité, ataxie, troubles pyramidaux) et d’un profil IRM caractéristique associant des anomalies de la substance blanche périventriculaire, du tronc cérébral et de la moelle, avec élévation du lactate à la spectroscopie. La confirmation repose sur l’identification de variants bialléliques pathogènes du gène DARS2.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 3–4  
+   Type_support : texte et imagerie  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+2️⃣ Catégorie : Interprétation de données / imagerie  
+   Difficulté : moyenne  
+   Type_question : analyse IRM  
+   Question : Quels sont les aspects IRM distinctifs de la LBSL par rapport aux autres leucoencéphalopathies mitochondriales ?  
+   Réponse : L’IRM montre des hyperintensités de la substance blanche périventriculaire, des faisceaux pyramidaux, des pédoncules cérébelleux et de la moelle dorsale. La combinaison d’atteinte cérébrale et spinale est quasi pathognomonique, contrairement à d’autres leucoencéphalopathies où l’atteinte est confinée au cerveau.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Neuroimaging Findings  
+   Page : 6–7  
+   Type_support : schéma / texte  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : avancée  
+   Type_question : diagnostic différentiel  
+   Question : En quoi se différencie-t-elle de la leucoencéphalopathie mitochondriale avec lactate élevé sans atteinte médullaire ?  
+   Réponse : Contrairement à ces formes, la LBSL associe une atteinte systématique des cordons postérieurs et latéraux de la moelle, visible à l’IRM, et un taux de lactate localisé plutôt qu’une hyperlactatémie systémique. Les patients présentent également une évolution plus lente et une spasticité plus marquée.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Differential Diagnosis  
+   Page : 9–10  
+   Type_support : texte comparatif  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge clinique et suivi à long terme  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : stratégie thérapeutique  
+   Question : Quelle est la stratégie de prise en charge actuelle des patients atteints de LBSL ?
+   Réponse : La prise en charge repose sur une approche symptomatique multidisciplinaire : kinésithérapie pour la spasticité et l’ataxie, ergothérapie, aides à la marche, et traitement préventif des complications orthopédiques. Aucun traitement curatif n’existe à ce jour.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Management / Treatment of Manifestations  
+   Page : 11–12  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : aggravation métabolique  
+   Question : Pourquoi les épisodes fébriles peuvent-ils aggraver temporairement les symptômes neurologiques ?
+   Réponse : Les épisodes fébriles augmentent les besoins énergétiques cellulaires et accentuent le déficit mitochondrial en ATP, ce qui perturbe la conduction axonale et aggrave transitoirement la spasticité et l’ataxie.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Clinical Course  
+   Page : 5–6  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+3️⃣ Catégorie : Interprétation de données / suivi  
+   Difficulté : moyenne  
+   Type_question : surveillance à long terme  
+   Question : Quels examens sont recommandés pour le suivi longitudinal des patients atteints ?  
+   Réponse : Un examen neurologique annuel, une IRM cérébrale et spinale tous les 2 à 3 ans, ainsi qu’une évaluation orthopédique et une surveillance de la spasticité et de la marche sont recommandés pour adapter les soins de rééducation.  
+   Source : GeneReviews – Engelen M. (2021)  
+   Section : Management / Surveillance  
+   Page : 12  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK43417.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Faits directs  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : épidémiologie  
+  Question : Quelle est la prévalence estimée de la LBSL et quelles populations sont les plus concernées ?  
+  Réponse : La LBSL est une maladie rare, estimée à 1 pour 500 000 naissances vivantes. Elle est plus fréquente dans les populations européennes du Nord, notamment aux Pays-Bas et en Scandinavie, où un effet fondateur a été identifié pour le variant c.228-20_21delTTinsC du gène DARS2.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Prevalence  
+  Page : 8  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Conseil génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : risque familial  
+  Question : Quel est le mode de transmission de la LBSL et le risque pour la fratrie d’un individu atteint ?  
+  Réponse : La LBSL est une maladie autosomique récessive. Si les deux parents sont porteurs d’un variant pathogène de DARS2, chaque enfant a 25 % de risque d’être atteint, 50 % d’être porteur et 25 % d’être indemne. Les porteurs hétérozygotes sont asymptomatiques.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Genetic Counseling / Risk to Family Members  
+  Page : 13–14  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Ressources / recherche  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : ressource clinique et scientifique  
+  Question : Quelles ressources sont disponibles pour les cliniciens et chercheurs travaillant sur la LBSL ?  
+  Réponse : Les patients et professionnels peuvent s’appuyer sur les réseaux **Euro-LBLS**, **United Leukodystrophy Foundation (ULF)**, et le **Leukodystrophy Care Network (LCN)**. Ces organisations facilitent la recherche translationnelle, le partage d’imagerie et les essais cliniques émergents.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Resources / Chapter Notes  
+  Page : 14–15  
+  Type_support : texte et ressource  
+  Document_name: Bookshelf_NBK43417.pdf  
+  
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Génétique moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : analyse des variants  
+  Question : Quels types de variants pathogènes du gène DARS2 sont les plus fréquemment observés dans la LBSL et quelle particularité de séquence complique leur détection ?  
+  Réponse : La majorité des patients présentent des variants introniques ou affectant les sites d’épissage, notamment le variant récurrent c.228-20_21delTTinsC. La détection est complexe car ce variant se situe dans une région riche en thymidine et cytosine, nécessitant des approches de séquençage à haute fidélité ou une analyse ARN complémentaire.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Molecular Genetics / Table of Known Variants  
+  Page : 15–16  
+  Type_support : texte et tableau génétique  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Physiopathologie / biochimie mitochondriale  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme enzymatique  
+  Question : Comment la déficience en DARS2 perturbe-t-elle la traduction mitochondriale et la production d’énergie cellulaire ?  
+  Réponse : DARS2 code pour l’aspartyl-ARNt synthétase mitochondriale, enzyme indispensable à l’attachement de l’acide aspartique à son ARNt. Sa déficience empêche la synthèse correcte de protéines mitochondriales impliquées dans la chaîne respiratoire, entraînant une baisse de l’activité oxydative et une accumulation de lactate.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Molecular Pathogenesis  
+  Page : 14–15  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Clinique / formes atypiques  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : variabilité phénotypique  
+  Question : Quelles manifestations cliniques atypiques ont été rapportées dans certaines formes de LBSL à début adulte ?  
+  Réponse : Des cas atypiques incluent une évolution par poussées pseudo-dégénératives, une présentation initiale avec neuropathie périphérique, ou des atteintes limitées à la moelle sans anomalies cérébrales majeures à l’IRM. Ces formes témoignent d’une variabilité phénotypique liée à des mutations hypomorphes de DARS2.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Clinical Variability  
+  Page : 5–6  
+  Type_support : texte clinique  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Diagnostic / méthodologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : diagnostic différentiel avancé  
+  Question : Dans quelles situations le séquençage exomique complet est-il préférable à un panel ciblé dans la recherche d’une LBSL ?  
+  Réponse : Le séquençage exomique complet est indiqué lorsque les résultats d’un panel mitochondrial sont négatifs ou si les anomalies IRM sont atypiques. Il permet de détecter des variants rares ou des combinaisons de mutations dans DARS2 et d’autres gènes impliqués dans les leucodystrophies mitochondriales.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Diagnosis / Molecular Testing Approaches  
+  Page : 3–4  
+  Type_support : texte méthodologique  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Conseil génétique / dépistage familial  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : gestion du risque familial  
+  Question : Quelle stratégie de dépistage est recommandée pour les apparentés asymptomatiques d’un patient atteint de LBSL confirmé génétiquement ?  
+  Réponse : Le dépistage repose sur une analyse ciblée du variant familial DARS2 chez les frères, sœurs et apparentés à risque. En cas de double portage, un suivi neurologique et IRM précoce est recommandé pour identifier les formes paucisymptomatiques.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Evaluation of Relatives at Risk  
+  Page : 12–13  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Thérapeutique / recherche translationnelle  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : innovation thérapeutique  
+  Question : Quelles approches thérapeutiques expérimentales sont actuellement à l’étude pour compenser le déficit en DARS2 ?  
+  Réponse : Les recherches portent sur la thérapie génique ciblant DARS2 via vecteurs AAV, la stabilisation post-traductionnelle des enzymes mitochondriales, et des molécules chaperons capables d’améliorer l’import mitochondrial des protéines mutées. Aucune n’a encore atteint le stade d’essai clinique humain.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Therapies Under Investigation  
+  Page : 15  
+  Type_support : texte et recherche expérimentale  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Pronostic / évolution  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : déterminants pronostiques  
+  Question : Quels facteurs influencent la vitesse de progression et le pronostic neurologique dans la LBSL ?  
+  Réponse : La sévérité dépend du type de variant DARS2, du niveau résiduel d’activité enzymatique et de l’âge de début. Les formes précoces progressent plus rapidement, tandis que les formes à début adulte peuvent rester stables plusieurs décennies.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Clinical Course / Prognosis  
+  Page : 5–6  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+- Catégorie : Ressources / registres et réseaux  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : ressource scientifique  
+  Question : Quels registres et organisations internationales soutiennent actuellement la recherche et la prise en charge des patients atteints de LBSL ?  
+  Réponse : Les principales ressources sont le **Leukodystrophy Care Network (LCN)**, la **European Reference Network for Rare Neurological Diseases (ERN-RND)** et la **United Leukodystrophy Foundation (ULF)**, qui centralisent les données cliniques et facilitent la recherche collaborative sur les leucodystrophies mitochondriales.  
+  Source : GeneReviews – Engelen M. (2021)  
+  Section : Resources  
+  Page : 15–16  
+  Type_support : texte et ressource clinique  
+  Document_name: Bookshelf_NBK43417.pdf  
+
+===== SÉRIE 1 =====
+Thème : Manifestations cliniques et formes évolutives de la maladie  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition de pathologie  
+   Question : Quelles sont les caractéristiques cliniques majeures du syndrome de Friedreich ?  
+   Réponse : La FRDA se caractérise par une ataxie progressive débutant entre 10 et 15 ans, associant une atteinte spinocérébelleuse, une neuropathie sensitive, une aréflexie, une dysarthrie, et souvent une cardiomyopathie hypertrophique. Le diabète et l’atrophie optique peuvent survenir secondairement.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Summary / Clinical characteristics  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : moyenne  
+   Type_question : physiopathologie  
+   Question : Comment la perte de frataxine conduit-elle aux atteintes neurologiques et cardiaques observées ?  
+   Réponse : La déficience en frataxine perturbe la synthèse des centres fer-soufre mitochondriaux, entraînant une accumulation de fer, un stress oxydatif accru et une défaillance énergétique des tissus à forte demande métabolique, notamment le système nerveux et le myocarde.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Molecular Pathogenesis  
+   Page : 24–25  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : moyenne  
+   Type_question : phénotypique  
+   Question : En quoi les formes tardives LOFA et VLOFA diffèrent-elles des formes typiques précoces ?  
+   Réponse : Les formes tardives présentent un âge de début supérieur à 25 ou 40 ans, des réflexes parfois conservés, une cardiomyopathie moins fréquente, et une progression plus lente, souvent liée à des expansions GAA plus courtes ou interrompues.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Atypical Friedreich Ataxia  
+   Page : 8–9  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic et corrélations génotype-phénotype  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : moyenne  
+   Type_question : diagnostic génétique  
+   Question : Quels sont les deux principaux types de variants pathogènes responsables de la FRDA ?  
+   Réponse : Environ 96 % des cas sont dus à une expansion GAA biallélique dans l’intron 1 du gène FXN, et environ 4 % à une combinaison d’une expansion et d’un variant de séquence pathogène ou d’une grande délétion du gène.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Diagnosis / Molecular Testing  
+   Page : 2–4  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : corrélation génotype-phénotype  
+   Question : Quelle relation existe entre la taille de l’allèle GAA1 et la sévérité clinique de la FRDA ?  
+   Réponse : La longueur de l’allèle GAA1 corrèle inversement avec l’âge d’apparition et directement avec la gravité de la maladie ; au-delà de 700 triplets, l’âge moyen de début est d’environ 10 ans, contre 18 ans pour des expansions inférieures à 700.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Genotype-Phenotype Correlations  
+   Page : 9–10  
+   Type_support : texte et données corrélatives  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+3️⃣ Catégorie : Interprétation de données  
+   Difficulté : avancée  
+   Type_question : interprétation de tableau génétique  
+   Question : Que révèle le tableau 9 sur les interruptions du motif GAA dans le gène FXN et leur impact phénotypique ?  
+   Réponse : Les allèles présentant des interruptions par G ou A dans la répétition GAA sont souvent associés à une forme tardive ou atténuée de FRDA, car ces interruptions réduisent la compaction chromatinienne et préservent partiellement l’expression du gène FXN.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Table 9 / Molecular Genetics  
+   Page : 24–25  
+   Type_support : tableau et texte explicatif  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge, thérapies et pronostic  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : prise en charge multidisciplinaire  
+   Question : Quelle est la stratégie de prise en charge recommandée pour un patient atteint de FRDA ?  
+   Réponse : Une approche multidisciplinaire est recommandée incluant neurologue, cardiologue, endocrinologue, kinésithérapeute, orthophoniste et psychologue, avec surveillance régulière des fonctions cardiaque, motrice et métabolique.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Management / Supportive Care  
+   Page : 15–17  
+   Type_support : texte et tableau clinique  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+2️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : thérapeutique ciblée  
+   Question : Quelles sont les principales thérapies ciblées et expérimentales actuellement en développement pour la FRDA ?  
+   Réponse : Omaveloxolone (activateur Nrf2) est approuvé, tandis que nomlabofusp, vatiquinone, leriglitazone, diméthyl fumarate et thérapies géniques AAV-FXN sont en essai clinique.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Therapies Under Investigation  
+   Page : 19–20  
+   Type_support : tableau et texte  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+3️⃣ Catégorie : Pronostic / raisonnement causal  
+   Difficulté : moyenne  
+   Type_question : pronostic évolutif  
+   Question : Quels sont les principaux déterminants du pronostic vital dans la FRDA selon les études longitudinales ?  
+   Réponse : Le pronostic est influencé par la durée de la maladie, la présence d’un diabète, d’une cardiomyopathie sévère et d’une altération de la fraction d’éjection, indépendamment du handicap neurologique.  
+   Source : GeneReviews – Bidichandani SI et al. (2025)  
+   Section : Clinical Course / Prognosis  
+   Page : 7–8  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1281.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Diagnostic différentiel  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : comparaison clinique  
+  Question : Quelles pathologies doivent être évoquées devant un tableau d’ataxie précoce sans expansion GAA détectée ?  
+  Réponse : Les principaux diagnostics différentiels incluent l’ataxie avec déficit en vitamine E (AVED), l’ataxie-télangiectasie, l’abétalipoprotéinémie et certaines neuropathies héréditaires comme la CMT liée à PMP22 ou MFN2.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Differential Diagnosis  
+  Page : 12–13  
+  Type_support : tableau comparatif  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Conseil génétique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : risque familial  
+  Question : Quel est le risque de transmission de la FRDA pour un couple de porteurs hétérozygotes FXN ?  
+  Réponse : Chaque enfant a un risque de 25 % d’être atteint, 50 % d’être porteur et 25 % d’être indemne, conformément à la transmission autosomique récessive.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Genetic Counseling / Risk to Family Members  
+  Page : 20–21  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Ressources cliniques  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : ressource / réseau  
+  Question : Quelles sont les principales ressources internationales et registres dédiés à la FRDA ?  
+  Réponse : Le Friedreich’s Ataxia Research Alliance (FARA), la National Ataxia Foundation, EFACTS et euro-ATAXIA regroupent les bases de données cliniques et soutiennent la recherche translationnelle.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Resources  
+  Page : 22–23  
+  Type_support : texte et liste de ressources  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Interprétation de données / neuro-imagerie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : analyse de données IRM  
+  Question : Quels sont les principaux signes IRM observés dans la FRDA et leur corrélation avec la progression clinique ?  
+  Réponse : L’IRM montre une atrophie du bulbe rachidien, du tronc cérébral et des cordons postérieurs cervicaux, ainsi qu’une hypointensité du noyau dentelé. La sévérité de l’atrophie cérébelleuse corrèle avec la durée de la maladie et la longueur des expansions GAA.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Neuroimaging / Clinical Characteristics  
+  Page : 5–6  
+  Type_support : texte et données d’imagerie  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Raisonnement causal / physiopathologie métabolique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : lien biochimique  
+  Question : Comment la dysfonction mitochondriale liée à la frataxine favorise-t-elle le développement du diabète dans la FRDA ?  
+  Réponse : La carence en frataxine provoque un stress oxydatif mitochondrial et une altération de la chaîne respiratoire dans les cellules β pancréatiques, réduisant la sécrétion d’insuline et favorisant l’intolérance au glucose.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Clinical Characteristics / Diabetes Mellitus  
+  Page : 7–8  
+  Type_support : texte physiopathologique  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Génétique moléculaire / méthodologie  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : stratégie d’analyse génétique  
+  Question : Quelle approche moléculaire est recommandée pour détecter les expansions GAA et les variants non répétitifs du gène FXN ?  
+  Réponse : Le diagnostic repose sur une PCR de type triplet-primed pour détecter l’expansion GAA, complétée par un séquençage de nouvelle génération (NGS) ou un MLPA pour identifier les variants de séquence et les grandes délétions rares.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Molecular Genetic Testing  
+  Page : 3–4  
+  Type_support : texte et protocole diagnostique  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Recommandation / pratique clinique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : prise en charge cardiaque  
+  Question : Quelles sont les recommandations de surveillance et de traitement de la cardiomyopathie dans la FRDA ?  
+  Réponse : Une échocardiographie annuelle est recommandée. Le traitement inclut les bêta-bloquants, les inhibiteurs de l’enzyme de conversion ou les antagonistes de l’angiotensine II. Une surveillance étroite est nécessaire pour détecter la progression vers une insuffisance cardiaque.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Management / Cardiac Manifestations  
+  Page : 16–17  
+  Type_support : texte et recommandations  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Pratique clinique / obstétrique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : gestion périnatale  
+  Question : Quels sont les risques et les précautions obstétricales chez les femmes atteintes de FRDA ?  
+  Réponse : Les grossesses peuvent être menées à terme mais nécessitent une surveillance cardiologique accrue. Les accouchements sous anesthésie générale doivent être évités en raison du risque de décompensation cardiaque et respiratoire.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Pregnancy Management  
+  Page : 18–19  
+  Type_support : texte clinique  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Liste / énumération  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : complications systémiques  
+  Question : Quelles complications systémiques non neurologiques peuvent survenir dans la FRDA ?  
+  Réponse : Outre la cardiomyopathie et le diabète, on observe des troubles du sommeil, une scoliose, une perte de l’audition, une atrophie optique et une insuffisance respiratoire restrictive à un stade avancé.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Clinical Characteristics / Multisystem Involvement  
+  Page : 6–7  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Pronostic / suivi longitudinal  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : évolution naturelle  
+  Question : Quelle est l’espérance de vie moyenne et quels facteurs influencent la survie des patients atteints de FRDA ?  
+  Réponse : L’espérance de vie médiane se situe entre 35 et 40 ans. Les principaux déterminants sont la sévérité de la cardiomyopathie, la présence d’un diabète, et la perte précoce de la marche. Les patients sans atteinte cardiaque peuvent vivre plusieurs décennies de plus.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Prognosis  
+  Page : 7–8  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Ressources / soins de transition  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : organisation du suivi  
+  Question : Quelles structures spécialisées facilitent la transition du suivi pédiatrique vers l’âge adulte chez les patients FRDA ?  
+  Réponse : Les centres de référence pour ataxies héréditaires et les réseaux multidisciplinaires comme **EFACTS** et **FA-Alliance** assurent la continuité des soins neurologiques, cardiaques et endocriniens lors du passage à l’âge adulte.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Resources / Clinical Follow-up  
+  Page : 21–22  
+  Type_support : texte et ressource clinique  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+- Catégorie : Raisonnement causal / thérapeutique innovante  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme d’action pharmacologique  
+  Question : Quel est le mécanisme d’action de l’omaveloxolone, première molécule approuvée pour la FRDA ?  
+  Réponse : L’omaveloxolone active le facteur Nrf2, augmentant la défense antioxydante mitochondriale et réduisant le stress oxydatif neuronal. Il améliore la fonction motrice (mFARS) sans modifier la progression génétique de la maladie.  
+  Source : GeneReviews – Bidichandani SI et al. (2025)  
+  Section : Targeted Therapies  
+  Page : 19–20  
+  Type_support : texte et données pharmacologiques  
+  Document_name: Bookshelf_NBK1281.pdf  
+
+
+===== SÉRIE 1 =====
+Thème : Caractéristiques cliniques et spectre tumoral du syndrome MAP  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition clinique  
+   Question : Quelles sont les principales caractéristiques cliniques du syndrome de polypose associé à MUTYH (MAP) ?  
+   Réponse : Le MAP se caractérise par un risque élevé de cancer colorectal, souvent associé à la présence de 10 à plusieurs centaines d’adénomes colorectaux. Des polypes hyperplasiques, serrated ou mixtes peuvent également survenir. Des adénomes duodénaux et des cancers extracoloniques, notamment de la vessie, de l’ovaire et du sein, sont possibles.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : moyenne  
+   Type_question : mécanisme pathogénique  
+   Question : Comment la perte de fonction du gène MUTYH contribue-t-elle à la cancérogenèse colique ?  
+   Réponse : La déficience en MUTYH perturbe la réparation de l’ADN par excision de base, favorisant l’accumulation de transversions G:C→T:A liées à l’oxydation de la guanine. Ces mutations somatiques, notamment dans KRAS, conduisent à la transformation adénomateuse puis carcinomateuse des cellules coliques.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Molecular Pathogenesis  
+   Page : 14–15  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+3️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : spectre tumoral  
+   Question : Quels sont les principaux types de cancers extracoloniques rapportés dans le syndrome MAP ?  
+   Réponse : Les tumeurs les plus fréquemment rapportées incluent les cancers duodénaux (≈4 %), de la vessie (6–25 %), de l’ovaire (6–14 %), du sein (12–25 %), et de l’endomètre (≈3 %). Des cas isolés de tumeurs thyroïdiennes, pancréatiques ou cutanées ont également été décrits.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Clinical Description / Table 3  
+   Page : 4–6  
+   Type_support : tableau et texte  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic moléculaire et différenciation syndromique  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : diagnostic génétique  
+   Question : Quel est le critère de confirmation moléculaire du diagnostic de MUTYH polyposis ?  
+   Réponse : Le diagnostic est confirmé par l’identification de variants pathogènes germinaux bialléliques du gène MUTYH par séquençage complet et, si nécessaire, par analyse de délétions/duplications intragéniques.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 2–3  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+2️⃣ Catégorie : Comparaison  
+   Difficulté : moyenne  
+   Type_question : différenciation nosologique  
+   Question : En quoi la polypose associée à MUTYH diffère-t-elle de la polypose liée à APC ?  
+   Réponse : Le MAP est autosomique récessif, avec un nombre de polypes intermédiaire (10–100) et un âge de début plus tardif. L’APC-FAP, autosomique dominante, entraîne des centaines à des milliers de polypes, un risque quasi constant de cancer colorectal et des signes extra-intestinaux spécifiques (ostéomes, tumeurs desmoïdes).  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Differential Diagnosis / Table 5  
+   Page : 7–8  
+   Type_support : tableau comparatif  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+3️⃣ Catégorie : Interprétation de données / génétique  
+   Difficulté : avancée  
+   Type_question : analyse de variants  
+   Question : Quels sont les deux variants pathogènes les plus fréquents du gène MUTYH dans les populations européennes ?  
+   Réponse : Les variants c.536A>G (p.Tyr179Cys) et c.1187G>A (p.Gly396Asp) représentent plus de 70 % des allèles pathogènes identifiés en Europe du Nord. Le premier est généralement associé à un phénotype plus sévère et un âge d’apparition plus précoce.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Molecular Genetics / Table 7  
+   Page : 15–16  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge, surveillance et conseil génétique  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : stratégie de surveillance  
+   Question : Quelles sont les recommandations de surveillance colique chez les personnes atteintes de MAP ?  
+   Réponse : Une coloscopie avec polypectomie est recommandée tous les 1 à 2 ans à partir de 25–30 ans, jusqu’à ce que la densité des polypes rende la colectomie nécessaire. Un suivi endoscopique duodénal est conseillé dès 30–35 ans.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Management / Surveillance  
+   Page : 10–11  
+   Type_support : texte et tableau clinique  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : indication chirurgicale  
+   Question : Quelles sont les situations justifiant une colectomie chez un patient atteint de MAP ?  
+   Réponse : La chirurgie est indiquée en cas de cancer colorectal confirmé, d’adénomes multiples >6 mm non résécables, de dysplasie de haut grade, ou d’impossibilité à assurer une surveillance coloscopique complète.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Management / Treatment of Manifestations  
+   Page : 9–10  
+   Type_support : texte et guide de pratique  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+3️⃣ Catégorie : Conseil génétique  
+   Difficulté : moyenne  
+   Type_question : risque familial  
+   Question : Quel est le mode de transmission du MAP et le risque pour la fratrie d’un patient atteint ?  
+   Réponse : Le MAP est autosomique récessif. Chaque frère ou sœur d’un patient a 25 % de risque d’être atteint, 50 % d’être porteur, et 25 % d’être indemne. Les porteurs hétérozygotes présentent un risque modérément accru de cancer colorectal tardif.  
+   Source : GeneReviews – Nielsen M. et al. (2021)  
+   Section : Genetic Counseling / Risk to Family Members  
+   Page : 12–13  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK107219.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Faits directs  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : épidémiologie  
+  Question : Quelle est la prévalence estimée du syndrome MAP dans la population générale ?  
+  Réponse : Environ 1:20 000 à 1:60 000 individus sont atteints de MAP, avec une fréquence de portage hétérozygote de 1–2 % dans les populations européennes et nord-américaines.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Prevalence  
+  Page : 6–7  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Physiopathologie / mécanisme moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mutational signature  
+  Question : Quelle signature mutationnelle caractérise les tumeurs coliques associées au déficit MUTYH ?  
+  Réponse : Les tumeurs présentent une signature mutagène spécifique (Signature 36), définie par un excès de transversions G:C>T:A dans des motifs AGAA/TGAA, traduisant l’incapacité à corriger les bases oxydées 8-oxoG.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Cancer and Benign Tumors / Molecular Pathogenesis  
+  Page : 15–16  
+  Type_support : texte et données de séquençage  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Ressources / recherche  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : ressource scientifique  
+  Question : Quelles ressources sont disponibles pour le suivi et la recherche sur la polypose MUTYH ?  
+  Réponse : Les principales ressources incluent l’**International Society for Gastrointestinal Hereditary Tumours (InSiGHT)**, la **Colorectal Cancer Alliance**, et le **NCCN Colorectal Cancer Network**, qui proposent recommandations, registres et études collaboratives.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Resources  
+  Page : 13–14  
+  Type_support : texte et ressource clinique  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Physiopathologie / biologie moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme enzymatique  
+  Question : Quel est le rôle physiologique de la glycosylase MUTYH dans le système de réparation de l’ADN par excision de base (BER) ?  
+  Réponse : MUTYH reconnaît les mésappariements A:8-oxoG résultant de l’oxydation de la guanine et excise l’adénine incorrecte. Cette activité prévient l’incorporation de transversions G:C>T:A, étape clé dans la suppression des mutations oncogéniques au sein des cellules coliques.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Molecular Pathogenesis / Base Excision Repair  
+  Page : 14–15  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Raisonnement causal / oncogenèse  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme tumoral  
+  Question : Comment les transversions G:C>T:A dans KRAS et APC contribuent-elles au développement des adénomes MUTYH-dépendants ?  
+  Réponse : Les transversions G:C>T:A génèrent des mutations activatrices de KRAS (p.G12C, p.G13D) et des pertes de fonction d’APC, entraînant une activation constitutive de la voie WNT et la prolifération aberrante des cellules coliques.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Cancer and Benign Tumors / Molecular Mechanisms  
+  Page : 15–16  
+  Type_support : texte et données de séquençage  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Diagnostic / porteurs hétérozygotes  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : stratégie de surveillance  
+  Question : Quelle surveillance est recommandée pour les porteurs hétérozygotes d’un variant pathogène du gène MUTYH ?  
+  Réponse : Une coloscopie tous les 5 ans à partir de 40 ans est proposée, ou 10 ans avant l’âge de diagnostic du cas familial le plus précoce. Cette recommandation repose sur un risque modérément accru de cancer colorectal comparé à la population générale.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Management / Surveillance for Heterozygotes  
+  Page : 11–12  
+  Type_support : texte  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Pratique clinique / prévention  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : prévention chimique  
+  Question : Quel est le rôle potentiel de la chimioprévention dans la prise en charge du syndrome MAP ?  
+  Réponse : Bien que non standardisée, la chimioprévention par inhibiteurs de COX-2 ou aspirine à faible dose pourrait réduire la charge polypoïde colique, mais les preuves restent limitées et le bénéfice à long terme non établi.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Management / Chemoprevention  
+  Page : 10  
+  Type_support : texte et recommandations cliniques  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Thérapies innovantes / recherche translationnelle  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : stratégies expérimentales  
+  Question : Quelles approches thérapeutiques émergentes ciblent la réparation de l’ADN ou la signalisation tumorale dans le MAP ?  
+  Réponse : Des études explorent l’inhibition de PARP pour exploiter la vulnérabilité liée au déficit en réparation par BER, ainsi que des vaccins anti-KRAS G12C et des immunothérapies visant les néoantigènes générés par les mutations oxydatives.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Therapies Under Investigation  
+  Page : 16–17  
+  Type_support : texte et recherche translationnelle  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Faits directs / épidémiologie comparative  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : fréquence géographique  
+  Question : Quelle est la distribution géographique des variants MUTYH pathogènes et quelles populations montrent un effet fondateur ?  
+  Réponse : Les variants p.Tyr179Cys et p.Gly396Asp dominent en Europe, tandis que le variant p.Gln324His est fréquent en Asie du Sud. Des effets fondateurs sont observés dans les populations finlandaises et afro-caribéennes.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Molecular Genetics / Population Distribution  
+  Page : 15–16  
+  Type_support : texte et données populationnelles  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Interprétation de données / biologie tumorale  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : profil moléculaire tumoral  
+  Question : Quelles altérations moléculaires distinguent les cancers MUTYH-associés des cancers sporadiques du côlon ?  
+  Réponse : Les tumeurs MUTYH-associées présentent une instabilité chromosomique modérée sans instabilité microsatellitaire (MSS), une signature mutagène spécifique liée à l’oxydation et une surreprésentation des mutations KRAS et NRAS, contrastant avec la fréquence élevée de BRAF dans les cancers sporadiques serrated.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Cancer and Benign Tumors / Molecular Pathogenesis  
+  Page : 15–16  
+  Type_support : texte et tableau comparatif  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+- Catégorie : Ressources / recherche collaborative  
+  Difficulté : facile  
+  Profil : professionnel  
+  Type_question : réseau de recherche  
+  Question : Quels réseaux et registres internationaux contribuent actuellement à la recherche sur le syndrome MAP ?  
+  Réponse : Les réseaux **InSiGHT**, **EHTG (European Hereditary Tumour Group)**, et le **CAPP3 Registry** assurent la collecte de données cliniques, génétiques et thérapeutiques pour améliorer le dépistage et la gestion du MAP à l’échelle internationale.  
+  Source : GeneReviews – Nielsen M. et al. (2021)  
+  Section : Resources  
+  Page : 17–18  
+  Type_support : texte et ressource scientifique  
+  Document_name: Bookshelf_NBK107219.pdf  
+
+
+===== SÉRIE 1 =====
+Thème : Caractéristiques cliniques et évolution du Parkinsonisme lié à PRKN  
+Profil cible : professionnel  
+Série : thématique  
+
+1️⃣ Catégorie : Définition / description  
+   Difficulté : facile  
+   Type_question : définition clinique  
+   Question : Quelles sont les caractéristiques cliniques typiques du Parkinsonisme de type Parkin (PARK-Parkin) ?  
+   Réponse : Le PARK-Parkin est une forme autosomique récessive de Parkinson débutant précocement, caractérisée par la triade classique bradykinésie, rigidité et tremblement de repos. Le début médian est vers 31 ans et la progression est lente. Les patients présentent souvent une hyperréflexie, une dystonie des membres inférieurs et une réponse marquée à la lévodopa.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Clinical Characteristics / Summary  
+   Page : 1–2  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : moyenne  
+   Type_question : physiopathologie  
+   Question : Quelle est la conséquence fonctionnelle principale des variants pathogènes du gène PRKN sur la physiologie neuronale ?  
+   Réponse : Les variants bialléliques de PRKN entraînent une perte d’activité E3 ubiquitine-ligase, perturbant la dégradation des protéines et la mitophagie. Cette défaillance de la qualité mitochondriale cause une vulnérabilité sélective des neurones dopaminergiques et une dégénérescence lente de la substantia nigra.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Molecular Pathogenesis  
+   Page : 11  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+3️⃣ Catégorie : Comparaison  
+   Difficulté : avancée  
+   Type_question : comparaison clinique  
+   Question : En quoi le PARK-Parkin diffère-t-il du Parkinson idiopathique sur le plan clinique et évolutif ?  
+   Réponse : Le PARK-Parkin débute plus tôt, progresse plus lentement, présente une symétrie motrice plus marquée et une absence quasi constante de démence. L’anosmie est rare et la réponse à la lévodopa est excellente mais souvent compliquée de dyskinésies précoces.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Clinical Description / Differential Diagnosis  
+   Page : 5–6, 9–10  
+   Type_support : texte comparatif  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+
+===== SÉRIE 2 =====
+Thème : Diagnostic moléculaire et imagerie fonctionnelle  
+Profil cible : professionnel  
+Série : mixte  
+
+1️⃣ Catégorie : Faits directs  
+   Difficulté : facile  
+   Type_question : diagnostic génétique  
+   Question : Quel test permet de confirmer le diagnostic de PARK-Parkin ?  
+   Réponse : Le diagnostic est confirmé par l’identification de deux variants pathogènes ou supposés pathogènes du gène PRKN à l’état biallélique, détectés par séquençage ciblé et analyse de délétions/duplications par MLPA.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Diagnosis / Establishing the Diagnosis  
+   Page : 2–3  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+2️⃣ Catégorie : Interprétation de données / imagerie  
+   Difficulté : moyenne  
+   Type_question : imagerie fonctionnelle  
+   Question : Quels résultats spécifiques sont observés en imagerie PET/SPECT chez les patients atteints de PARK-Parkin ?  
+   Réponse : Les études PET/SPECT montrent une réduction symétrique de la captation striatale de la 18F-DOPA et une densité diminuée du transporteur dopaminergique présynaptique, avec un ralentissement marqué de la perte dopaminergique par rapport aux formes sporadiques.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Neuroimaging  
+   Page : 3–4  
+   Type_support : texte et données fonctionnelles  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+3️⃣ Catégorie : Liste / énumération  
+   Difficulté : moyenne  
+   Type_question : tests moléculaires disponibles  
+   Question : Quelles approches moléculaires sont recommandées pour la détection des variants PRKN ?  
+   Réponse : L’analyse peut inclure :  
+   - un panel multigénique Parkinson avec séquençage et recherche de réarrangements d’exons ;  
+   - un séquençage exomique ou génomique complet ;  
+   - une analyse de dosage de gènes par MLPA pour les grandes délétions/duplications.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Diagnosis / Molecular Genetic Testing  
+   Page : 2–3  
+   Type_support : texte et tableau  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+
+===== SÉRIE 3 =====
+Thème : Prise en charge thérapeutique et aspects cliniques particuliers  
+Profil cible : professionnel  
+Série : indépendante  
+
+1️⃣ Catégorie : Recommandation / pratique clinique  
+   Difficulté : moyenne  
+   Type_question : traitement pharmacologique  
+   Question : Quelle est la stratégie thérapeutique privilégiée pour les patients atteints de PARK-Parkin ?  
+   Réponse : Le traitement repose sur la lévodopa à faible dose, les agonistes dopaminergiques, les inhibiteurs de MAO-B et COMT, ainsi que l’amantadine. La stimulation cérébrale profonde (DBS) est efficace pour les dyskinésies et fluctuations motrices sévères.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Management / Treatment of Manifestations  
+   Page : 7–8  
+   Type_support : texte  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+2️⃣ Catégorie : Raisonnement causal  
+   Difficulté : avancée  
+   Type_question : effet secondaire thérapeutique  
+   Question : Pourquoi les patients PARK-Parkin présentent-ils fréquemment des dyskinésies sous lévodopa ?  
+   Réponse : La sensibilité dopaminergique élevée liée à une dénervation lente et symétrique du striatum provoque une hyperstimulation pulsatile des récepteurs D1/D2, favorisant les mouvements involontaires précoces.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Treatment Complications  
+   Page : 7  
+   Type_support : texte explicatif  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+3️⃣ Catégorie : Faits directs  
+   Difficulté : moyenne  
+   Type_question : grossesse et traitement  
+   Question : Quelles précautions sont recommandées lors d’une grossesse chez une femme atteinte de PARK-Parkin ?  
+   Réponse : La lévodopa reste le traitement de choix. Elle peut être utilisée pendant la grossesse sans effet tératogène démontré. Les agonistes dopaminergiques et l’amantadine sont généralement évités. Une surveillance obstétricale et neurologique conjointe est requise.  
+   Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+   Section : Pregnancy Management  
+   Page : 8–9  
+   Type_support : texte clinique  
+   Document_name: Bookshelf_NBK1478.pdf  
+
+
+===== QUESTIONS SUPPLÉMENTAIRES =====
+
+- Catégorie : Physiopathologie moléculaire  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme mitochondrial  
+  Question : Quel rôle joue la protéine parkin dans la mitophagie et le contrôle de la qualité mitochondriale ?  
+  Réponse : Parkin agit conjointement avec PINK1 pour éliminer les mitochondries dysfonctionnelles via l’ubiquitination de leurs protéines de surface, déclenchant leur autophagie. Cette voie limite la toxicité oxydative et préserve la survie neuronale.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Molecular Pathogenesis  
+  Page : 11  
+  Type_support : texte et schéma conceptuel  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Diagnostic différentiel  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : comparaison génétique  
+  Question : Quels autres gènes sont impliqués dans les formes autosomiques récessives de Parkinson précoce proches du PARK-Parkin ?  
+  Réponse : Les principaux gènes sont PINK1 (PARK-PINK1), DJ-1 (PARK-DJ1), DNAJC6, FBXO7, SYNJ1 et VPS13C. Ces formes partagent une présentation clinique proche mais diffèrent par des signes associés (atteinte cognitive, dysautonomie, chutes précoces).  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Differential Diagnosis / Table 3  
+  Page : 5–6  
+  Type_support : tableau  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Recherche / thérapies innovantes  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : stratégie thérapeutique expérimentale  
+  Question : Quelles thérapies ciblées sont actuellement à l’étude pour le PARK-Parkin selon les approches translationnelles ?  
+  Réponse : Les essais cliniques explorent des modulateurs mitochondriaux (coenzyme Q10, activateurs de la biogenèse mitochondriale) et des molécules favorisant la voie PINK1-parkin. Les thérapies géniques AAV-PRKN sont en développement préclinique.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Therapies Under Investigation  
+  Page : 8  
+  Type_support : texte et recherche translationnelle  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+
+
+===== QUESTIONS COMPLÉMENTAIRES =====
+
+- Catégorie : Interprétation de données / neuroimagerie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : neuroimagerie fonctionnelle  
+  Question : Quels paramètres IRM et SPECT permettent de distinguer le PARK-Parkin des formes idiopathiques de la maladie de Parkinson ?  
+  Réponse : L’IRM montre une préservation relative du signal nigral et une atrophie cérébrale minime. Le SPECT dopaminergique révèle une perte symétrique de la captation du DAT, contrairement à la perte asymétrique typique du Parkinson idiopathique.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Neuroimaging  
+  Page : 3–4  
+  Type_support : texte et données d’imagerie  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Faits directs / neuroimagerie métabolique  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : imagerie avancée  
+  Question : Quelles anomalies métaboliques sont observées au PET-scan chez les patients PARK-Parkin ?  
+  Réponse : Le PET-scan au 18F-DOPA montre une réduction homogène de la captation striatale, sans hypermétabolisme cortical. Ces anomalies confirment une dégénérescence dopaminergique lente mais diffuse du putamen et du caudé.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Neuroimaging / PET Findings  
+  Page : 4  
+  Type_support : imagerie fonctionnelle  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Génétique populationnelle / épidémiologie  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : fréquence des variants  
+  Question : Quelle est la fréquence des variants PRKN dans la maladie de Parkinson précoce selon les études de population ?  
+  Réponse : Les variants bialléliques PRKN représentent 10–15 % des cas de Parkinson avant 40 ans, et jusqu’à 50 % dans les formes autosomiques récessives précoces. Les porteurs monoalléliques sont plus fréquents mais leur contribution reste controversée.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Prevalence / Population Studies  
+  Page : 6–7  
+  Type_support : texte et données populationnelles  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Comparaison / corrélation génique  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : corrélation génotype-phénotype  
+  Question : Quelles similitudes et différences existent entre les formes liées à PRKN et celles dues à PINK1 sur les plans clinique et moléculaire ?  
+  Réponse : Les deux sont autosomiques récessives, débutent précocement et présentent une réponse robuste à la lévodopa. Sur le plan moléculaire, PRKN code une E3 ubiquitine-ligase tandis que PINK1 code une kinase mitochondriale qui recrute Parkin. Les formes PRKN montrent une progression plus lente et moins de dystonie initiale.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Differential Diagnosis / Table 3  
+  Page : 5–6  
+  Type_support : texte et tableau comparatif  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Raisonnement causal / inflammation neuronale  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : physiopathologie inflammatoire  
+  Question : Comment la dysfonction de Parkin favorise-t-elle l’activation de la voie STING et la neuroinflammation ?  
+  Réponse : La perte de Parkin entraîne une accumulation d’ADN mitochondrial cytosolique, activant le capteur STING et induisant une réponse inflammatoire via les interférons de type I. Cette activation contribue à la dégénérescence neuronale progressive.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Molecular Pathogenesis / Cellular Pathways  
+  Page : 11–12  
+  Type_support : texte explicatif  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Raisonnement causal / stress oxydatif  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : mécanisme mitochondrial  
+  Question : Quel lien existe entre la perte de fonction de Parkin et l’accumulation de fer dans la substance noire ?  
+  Réponse : Le dysfonctionnement mitophagique augmente la production d’espèces réactives de l’oxygène, altérant la régulation du métabolisme du fer par la ferritine et la ferroportine. Cette surcharge ferrique exacerbe la neurodégénérescence dopaminergique.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Pathophysiology / Oxidative Stress  
+  Page : 11  
+  Type_support : texte et schéma moléculaire  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Interprétation de données / génétique moléculaire  
+  Difficulté : moyenne  
+  Profil : professionnel  
+  Type_question : corrélation mutationnelle  
+  Question : Quelles classes de variants PRKN sont associées aux formes les plus sévères de PARK-Parkin ?  
+  Réponse : Les grandes délétions d’exons (notamment exons 3–4) et les mutations tronquantes bialléliques conduisent à une perte complète de la fonction Parkin, entraînant un début plus précoce (<20 ans) et des dyskinésies précoces. Les variants missense ont des phénotypes plus modérés.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Molecular Genetics / Known Variants  
+  Page : 12–13  
+  Type_support : texte et tableau génétique  
+  Document_name: Bookshelf_NBK1478.pdf  
+
+- Catégorie : Thérapies innovantes / recherche translationnelle  
+  Difficulté : avancée  
+  Profil : professionnel  
+  Type_question : stratégie thérapeutique  
+  Question : Quelles approches expérimentales ciblent la restauration de la voie PINK1-Parkin dans les modèles de Parkinson précoce ?  
+  Réponse : Les stratégies incluent l’activation pharmacologique de PINK1, l’utilisation de molécules mimant l’ubiquitination mitochondriale (Ub-activators) et des thérapies géniques AAV visant la surexpression de PRKN ou PINK1 dans la substance noire.  
+  Source : GeneReviews – Brüggemann N., Klein C. (2020)  
+  Section : Therapies Under Investigation  
+  Page : 12  
+  Type_support : texte et recherche translationnelle  
+  Document_name: Bookshelf_NBK1478.pdf  

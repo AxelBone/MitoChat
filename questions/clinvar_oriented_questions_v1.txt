@@ -1,0 +1,614 @@
+# === QUESTIONS CLINVAR (VERSION FRANÇAISE COMPLÈTE) ===
+# Format compatible GeneReviews / ClinVar
+# Traduction : ChatGPT (GPT-5) – 2025
+# Langue : Français académique – Profil : professionnel
+# ------------------------------------------------------
+
+# --- VARIANTE → GÈNE ---
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:3688:G:A ?
+  Réponse: La variante MT:3688:G:A est liée au gène MT-ND1 (ID gène : 4535).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:14873:C:T ?
+  Réponse: La variante MT:14873:C:T est liée au gène MT-CYB (ID gène : 4519).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:4513:C:T ?
+  Réponse: La variante MT:4513:C:T est liée au gène MT-ND2 (ID gène : 4536).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:6353:A:G ?
+  Réponse: La variante MT:6353:A:G est liée au gène MT-CO1 (ID gène : 4512).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:6626:T:C ?
+  Réponse: La variante MT:6626:T:C est liée au gène MT-CO1 (ID gène : 4512).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante X:155061862:C:T ?
+  Réponse: La variante X:155061862:C:T est liée au gène CMC4 (ID gène : 100272147).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:13434:A:G ?
+  Réponse: La variante MT:13434:A:G est liée au gène MT-ND5 (ID gène : 4540).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:7258:T:C ?
+  Réponse: La variante MT:7258:T:C est liée au gène MT-CO1 (ID gène : 4512).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:13741:A:G ?
+  Réponse: La variante MT:13741:A:G est liée au gène MT-ND5 (ID gène : 4540).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–gène
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: lien variante–gène
+  Question: Quel gène est lié à la variante MT:15259:C:T ?
+  Réponse: La variante MT:15259:C:T est liée au gène MT-CYB (ID gène : 4519).
+  Source: ClinVar (2025)
+  Section: Cartographie variante–gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+
+# --- SIGNIFICATION CLINIQUE DES VARIANTES ---
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:13711:G:A ?
+  Réponse: La variante MT:13711:G:A est classée comme bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:8448:T:C ?
+  Réponse: La variante MT:8448:T:C est classée comme bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:13438:C:A ?
+  Réponse: La variante MT:13438:C:A est classée comme de signification incertaine.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:4094:C:T ?
+  Réponse: La variante MT:4094:C:T est classée comme de signification incertaine.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:7922:T:C ?
+  Réponse: La variante MT:7922:T:C est classée comme de signification incertaine.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:13834:A:G ?
+  Réponse: La variante MT:13834:A:G est classée comme bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:13770:C:A ?
+  Réponse: La variante MT:13770:C:A est classée comme probablement bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:5131:TAA:T ?
+  Réponse: La variante MT:5131:TAA:T est classée comme de signification incertaine.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:8387:G:A ?
+  Réponse: La variante MT:8387:G:A est classée comme bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / signification clinique
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: classification clinique du variant
+  Question: Quelle est la signification clinique de la variante MT:9861:T:C ?
+  Réponse: La variante MT:9861:T:C est classée comme bénigne ou probablement bénigne.
+  Source: ClinVar (2025)
+  Section: Signification clinique
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+
+# --- CLASSIFICATION PATHOGÉNIQUE PAR GÈNE ---
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène MT-ND2 sont classés comme probablement pathogènes ?
+  Réponse: Pour le gène MT-ND2, le variant MT:4810:G:A est classé comme probablement pathogène.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène FUNDC2 sont classés comme probablement pathogènes ?
+  Réponse: Pour le gène FUNDC2, aucun variant n’est précisé, mais il est classé comme probablement pathogène.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène MT-CO3 sont classés comme probablement pathogènes ?
+  Réponse: Pour le gène MT-CO3, les variants MT:9479:TTTTTTCTTCGCAGGA:T, MT:9952:G:A, MT:9531:A:AC et MT:9311:T:TGCA sont classés comme probablement pathogènes.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène TMLHE sont classés comme bénins ?
+  Réponse: Pour le gène TMLHE, le variant X:155514051:G:A est classé comme bénin.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène MT-ND6 sont classés comme pathogènes ?
+  Réponse: Pour le gène MT-ND6, les variants MT:14487:T:C, MT:14243:G:GC et MT:14484:T:C sont classés comme pathogènes.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / classification pathogénique par gène
+  Difficulté: moyenne
+  Profil: professionnel
+  Type_question: variants classés par signification clinique
+  Question: Quels variants du gène MT-CO1 sont classés comme pathogènes ?
+  Réponse: Pour le gène MT-CO1, les variants MT:7275:T:C, MT:6691:GA:G, MT:6899:GA:G, MT:5953:CA:C, MT:6924:GC:G, MT:6716:A:AGGG, MT:6277:G:A, MT:6935:CA:C, MT:6687:T:TCAC, MT:6938:CT:C, MT:6814:AT:A, MT:6748:TC:T, MT:6743:T:TTGG, MT:6857:CA:C et MT:6607:TC:T sont classés comme pathogènes.
+  Source: ClinVar (2025)
+  Section: Classification des variants par gène
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+# --- DESCRIPTIONS LONGUES ET COURTES DES VARIANTES ---
+- Catégorie: Description détaillée / variante individuelle
+  Difficulté: avancée
+  Profil: professionnel
+  Type_question: description complète du variant
+  Question: Que pouvez-vous me dire sur la variante X:155524566:G>A ?
+  Réponse: La variante X:155524566:G>A est une substitution nucléotidique unique (SNV) située sur le chromosome X à la position 155 524 566. Elle concerne le gène TMLHE (Triméthyllysine Hydroxylase, epsilon). C’est une variante faux-sens modifiant un acide aminé de la protéine. Selon ClinVar (AlleleID : 1318812), sa signification clinique est incertaine. Elle est rare dans les populations (AF_ESP : 0.00038 ; AF_EXAC : 0.00008). Aucune maladie spécifique n’est confirmée à ce stade. Elle est référencée sous rs149189246 dans dbSNP.
+  Source: ClinVar (2025)
+  Section: Description complète de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Description détaillée / variante individuelle
+  Difficulté: avancée
+  Profil: professionnel
+  Type_question: description complète du variant
+  Question: Que pouvez-vous me dire sur la variante MT:10620:A>G ?
+  Réponse: La variante MT:10620:A>G est une substitution simple dans l’ADN mitochondrial, affectant le gène MT-ND4L. Elle est associée au syndrome de Leigh mais sa signification clinique reste incertaine. Référencée dans ClinVar (AlleleID : 680193) et ClinGen (CA414806104), elle correspond à la notation HGVS : NC_012920.1:m.10620A>G.
+  Source: ClinVar (2025)
+  Section: Description complète de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Description détaillée / variante individuelle
+  Difficulté: avancée
+  Profil: professionnel
+  Type_question: description complète du variant
+  Question: Que pouvez-vous me dire sur la variante MT:14243:G>GC ?
+  Réponse: La variante MT:14243:G>GC est une duplication située dans le gène mitochondrial MT-ND6. Elle est classée comme pathogène et associée à l’adénome oxyphile. La notation HGVS correspond à m.14248dup. Référencée dans ClinVar (AlleleID : 226595) et ClinGen (CA353618), avec un statut “aucun critère d’évaluation fourni”.
+  Source: ClinVar (2025)
+  Section: Description complète de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / résumé court du variant
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: résumé court du variant
+  Question: Que pouvez-vous me dire brièvement sur la variante X:155524566:G>A ?
+  Réponse: Il s’agit d’une variante faux-sens dans le gène TMLHE sur le chromosome X, de signification clinique incertaine, sans maladie associée connue.
+  Source: ClinVar (2025)
+  Section: Résumé de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / résumé court du variant
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: résumé court du variant
+  Question: Que pouvez-vous me dire brièvement sur la variante MT:10620:A>G ?
+  Réponse: Variante mitochondriale du gène MT-ND4L, associée au syndrome de Leigh, mais de signification clinique incertaine.
+  Source: ClinVar (2025)
+  Section: Résumé de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / résumé court du variant
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: résumé court du variant
+  Question: Que pouvez-vous me dire brièvement sur la variante MT:14243:G>GC ?
+  Réponse: Duplication dans le gène mitochondrial MT-ND6 (m.14248dup), classée comme pathogène et associée à l’adénome oxyphile.
+  Source: ClinVar (2025)
+  Section: Résumé de variante
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+# --- VARIANTE → MALADIE ---
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés à la maladie atrophie optique de Leber ?
+  Réponse: Les variants associés à l’atrophie optique de Leber sont MT:12923:G:A, MT:14831:G:A, MT:11360:A:G, MT:9176:T:G, MT:9237:G:A, MT:12811:T:C, MT:14495:A:G, MT:14325:T:C, MT:12706:T:C, MT:4216:T:C, MT:9804:G:A, MT:8969:G:A, MT:4136:A:G, MT:8686:T:C, MT:11777:C:A, MT:14482:C:G, MT:14568:C:T, MT:3394:T:C, MT:3733:G:A, MT:14484:T:C, MT:8851:T:C, MT:4640:C:A, MT:13760:C:T, MT:5244:G:A, MT:3635:G:A, MT:15257:G:A, MT:4025:C:T, MT:11696:G:A, MT:13051:G:A, MT:14795:T:C, MT:14482:C:A, MT:10663:T:C, MT:13042:G:A, MT:13637:A:G, MT:4171:C:A, MT:14279:G:A, MT:13094:T:C, MT:11778:G:A, MT:247:GA:G, MT:235:A:G, MT:14487:T:C, MT:14668:C:T, MT:15579:A:G, MT:8783:G:A, MT:9438:G:A, MT:9176:T:C, MT:13730:G:A, MT:13045:A:C, MT:3700:G:A, MT:12848:C:T, MT:15437:G:A, MT:9035:T:C, MT:9101:T:C, MT:15812:G:A, MT:8603:T:G, MT:12417:CA:C, MT:10197:G:A, MT:15485:C:T, MT:14596:A:T, MT:13763:C:T, MT:11253:T:C, MT:3697:G:A, MT:9185:T:C, MT:8993:T:C, MT:3376:G:A, MT:15150:G:A, MT:13063:G:A, MT:14500:A:T, MT:4160:T:C, MT:4917:A:G, MT:14502:T:C, MT:10237:T:C, MT:3460:G:A, MT:13708:G:A, MT:12338:T:C et MT:14498:T:C.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés au syndrome de Leigh mitochondrial ?
+  Réponse: Le variant associé au syndrome de Leigh mitochondrial est MT:9176:T:C.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés au lipome sous-cutané ?
+  Réponse: Le variant associé au lipome sous-cutané est MT:9355:A:T.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés à la thrombose veineuse ?
+  Réponse: Les variants associés à la thrombose veineuse sont MT:9540:T:C, MT:11719:G:A, MT:12007:G:A et MT:14766:C:T.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés à la tumeur germinale médiastinale ?
+  Réponse: Le variant associé à la tumeur germinale médiastinale est MT:14372:C:A.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés au déficit mitochondrial du complexe I ?
+  Réponse: Les variants associés au déficit mitochondrial du complexe I sont MT:10158:T:C, MT:10197:G:A, MT:11777:C:A, MT:10191:T:C, MT:3922:G:T, MT:4810:G:A et MT:5131:TAA:T.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés au déficit mitochondrial du complexe IV avec myoglobinurie récurrente ?
+  Réponse: Le variant associé est MT:9479:TTTTTTCTTCGCAGGA:T.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations variante–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association variante–maladie
+  Question: Quels variants sont associés au carcinome du côlon ?
+  Réponse: Le variant associé au carcinome du côlon est MT:3308:T:C.
+  Source: ClinVar (2025)
+  Section: Associations variante–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+
+# --- GÈNE → MALADIE ---
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à la déficience visuelle ?
+  Réponse: Le gène MT-ND4 est associé à la déficience visuelle.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé au néoplasme ovarien ?
+  Réponse: Le gène MT-CYB est associé au néoplasme ovarien.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à l’hypoplasie du vermis cérébelleux ?
+  Réponse: Le gène TMLHE est associé à l’hypoplasie du vermis cérébelleux.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quels gènes sont associés à l’épilepsie ?
+  Réponse: Les gènes MT-CYB, MT-CO3, MT-ND4 et MT-ND2 sont associés à l’épilepsie.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à la calcification des noyaux gris centraux ?
+  Réponse: Le gène MT-ND4 est associé à la calcification des noyaux gris centraux.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à la leucémie mégacaryoblastique aiguë ?
+  Réponse: Le gène MT-ND6 est associé à la leucémie mégacaryoblastique aiguë.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à une concentration accrue de lactate circulant ?
+  Réponse: Le gène MT-ND1 est associé à une concentration accrue de lactate circulant.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à la paraparésie spastique progressive ?
+  Réponse: Le gène MT-ATP6 est associé à la paraparésie spastique progressive.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à une morphologie cérébrale anormale ?
+  Réponse: Le gène MT-ND6 est associé à une morphologie cérébrale anormale.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json
+
+- Catégorie: Faits directs / relations gène–maladie
+  Difficulté: facile
+  Profil: professionnel
+  Type_question: association gène–maladie
+  Question: Quel gène est associé à l’épendymome ?
+  Réponse: Le gène MT-ND4 est associé à l’épendymome.
+  Source: ClinVar (2025)
+  Section: Associations gène–maladie
+  Page: N/A
+  Type_support: base de données structurée
+  Document_name: clinvar_2025.json

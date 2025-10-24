@@ -1,0 +1,49 @@
+Column_Name	Description
+HumanGeneID	NCBI Entrez Gene ID for human ortholog of mouse gene (based on reciprocal BLASTP hit, expect<1e-3).  Note the last row includes an ENSEMBL identifier (ENSG00000230623) since Entrez does not include this gene yet.			
+MouseOrthologGeneID	NCBI Entrez Gene ID for mouse gene			
+Symbol	Official Entrez gene symbol from NCBI as of 08/31/2020			
+Synonyms	NCBI Entrez gene synonyms (UniProt added at end) from NCBI as of 08/31/2020			
+Description	NCBI Entrez gene description from NCBI as of 08/31/2020			
+MitoCarta3_List	MitoCarta3.0, mito-interacting, otherwise 0.  Note mito-interacting is a tag indicating  genes not in MitoCarta3.0 and not residing within the double-membraned organelle, but with evidence of association with the mitochondrion or proteins embedded within the mitochondrial outer membrane (eg ER Mitochondial Associated Membranes, or cytosolic proteins binding to the signalling molecule MAVS), although this list is not exhaustive.			
+MitoCarta3_Evidence	Type of experimental support			
+MitoCarta3_SubMitoLocalization	Compartment within mitochondrion: matrix, MIM (mitochondrial inner membrane), IMS (intermembrane space), MOM (mitochondrial outer membrane), membrane, unknown.  Annotations are best guess based on literature, APEX experimental data to matrix, IMS, or MOM, presence of transmembrane helices (via TMHMM program).			
+MitoCarta3_MitoPathways	List of manually curated biological pathways.			
+TrainingDataset	For MitoCarta2.0: Tmito, Tnot_mito, or T_possible_mito (indicating evidence based on NCBI GO mitochondrial annotation or MitoP2 database, but not in Tmito); Deprecated indicates NCBI Entrez Gene was present in 2015 but deprecated by 2020;  NA indicates newly added to NCBI Entrez Gene, thus present in 2020 but not in 2015.			
+MitoCarta2_score	Naïve Bayes score (sum of log-likelihood ratios for each of 7 above features)			
+MitoCarta2_FDR	Estimated corrected false discovery rate for all predictions >= given score			
+MitoCarta2_List	1 if gene is on final MitoCarta2.0 list			
+MitoCarta2_Evidence	Type of experimental support			
+EnsemblGeneID	Ensembl Gene Identifier (based on Ensembl mapper)			
+UniProt	UniProt Protein Identifier (based on UniProt mapper)			
+ProteinLength	Length of longest RefSeq protein isoform			
+TargetP_Score	TargetP confidence score (1-5, 1 is most confident) of mitochondrial targeting signal. Score 0 indicates no mitochondrial prediction			
+MitoDomain_Score	MitoDomain indicates exclusively mito domain; SharedDomain indicates shared mito & non-mito domain; NonMitoDomain indicates exclusively non-mito domain; NA indicates unknown			
+CoexpressionGnfN50_Score	N50 score for coexpression across mouse GNFv3 tissue atlas (N50 = number of 50 nearest neighbors that are in Tmito)			
+PGC_Induction_Score	Foldchange in transcript induction following overexpression of PGC1a, known to induce mitochondrial biogenesis			
+YeastMitoHomolog_Score	OrthologMitoHighConf (HomologMitoHighConf) if yeast ortholog (homolog) is annotated mitochondrial in SGD with high confidence; OrthologMitoLowConf (HomologMitoLowConf) if yeast ortholog (homolog) is annotated mitochondrial in SGD with low confidence (dual localized or only based on high throughput data), NoMitoHomolog indicates no yeast homolog or homolog is not annotated mitochondrial in SGD			
+RickettsiaHomolog_Score	Ortholog if 1:1 ortholog between mouse and Rickettsia prowazekii; Homolog if homology between mouse and Rickettsia prowazekii, otherwise NoHomolog			
+MSMS_Score	Category indicating MS/MS abundance (coverage) and enrichment in subtractive proteomics (either pure-enriched, crude-enriched, or ambiguous)			
+mm10_Chromosome	Chromosome (mm10 assembly)			
+mm10_Start	Start position (mm10)			
+mm10_Stop	Stop position (mm10)			
+MSMS_NUM_TISSUES	Number 0-14 tissues where gene products were found by MS/MS 			
+MSMS_NUM_PEPTIDES_UNIQUE	Number of unique peptides, based on pooling spectra from 14 tissues			
+MSMS_NUM_SPECTRA	Number of spectra corresponding to this gene, based on pooling spectra from 14 tissues			
+MSMS_TOTAL_INTENSITY	total peak intensity, based on pooling spectra from 14 tissues			
+MSMS_PERCENT_COVERAGE	Coverage (percent of amino acids covered by MS/MS spectra), based on pooling spectra from 14 tissues			
+Tissues	List of tissues with evidence of protein, based on 14 tissues			
+cerebrum_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+cerebellum_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+brainstem_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+spinalcord_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+kidney_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+liver_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+heart_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+skeletalmuscle_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+adipose_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+smallintestine_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+largeintestine_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+stomach_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+placenta_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+testis_total_peak_intensity_log10	Total peak intensity of spectra found in this tissue (log base 10)			
+HPA_Main_Location_2020 (Reliability)	Main location in the human ortholog in Protein Atlas based on antibody-based high-resolution microscopy in multiple cell lines, along with annotation of reliability, as of 2020-09-16			
