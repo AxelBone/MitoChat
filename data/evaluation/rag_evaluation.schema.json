@@ -1,47 +1,38 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/rag_evaluation.schema.json",
-  "title": "RAG Evaluation Record",
-  "description": "Schéma complet pour les exemples d'évaluation RAG multi-sources.",
+  "$id": "https://example.com/rag_multisystem_evaluation.schema.json",
+  "title": "RAG Multi-System Evaluation Record",
+  "description": "Schéma JSON pour représenter une question RAG avec plusieurs évaluations (modèles / retrievers) comparables.",
   "type": "object",
-  "required": ["id", "query", "ground_truth", "context_v1", "context_v2", "type_question", "difficulty", "profile"],
+
+  "required": [
+    "question_id",
+    "query",
+    "ground_truth",
+    "type_question",
+    "difficulty",
+    "profile",
+    "source_dataset",
+    "chunk_metadata"
+  ],
+
   "properties": {
-    "id": {
+    "question_id": {
       "type": "string",
-      "description": "Identifiant unique (UUID ou hash)."
+      "description": "Identifiant unique de la question (UUID ou hash)."
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Horodatage ISO 8601 de la création de la question."
     },
     "query": {
       "type": "string",
-      "description": "Question posée au système RAG."
+      "description": "Texte de la question posée au système RAG."
     },
     "ground_truth": {
       "type": "string",
-      "description": "Réponse correcte justifiée par le contexte."
-    },
-    "context_v1": {
-      "type": "array",
-      "description": "Liste de contextes strictement nécessaires pour répondre correctement. Liste obtenue par le retrieval",
-      "minItems": 1,
-      "items": {
-        "type": "object",
-        "required": ["text", "source", "document", "type"],
-        "properties": {
-          "text": { "type": "string" },
-          "source": { "type": "string", "description": "Nom de la base ou corpus (ClinVar, Mitocarta, PDF...)" },
-          "document": { "type": "string", "description": "Nom du fichier ou identifiant de document" },
-          "page": { "type": ["integer", "null"], "description": "Numéro de page si applicable" },
-          "position": { "type": ["string", "null"], "description": "Emplacement ou ligne dans le document" },
-          "type": { "type": "string", "enum": ["text", "table", "image", "metadata"], "description": "Nature du contenu" }
-        }
-      }
-    },
-    "context_v2": {
-      "type": "array",
-      "description": "Liste de contextes élargis ou bruités (pertinents + redondants). Liste obtenue par le retrieval.",
-      "minItems": 1,
-      "items": {
-        "$ref": "#/properties/context_v1/items"
-      }
+      "description": "Réponse de référence correcte et validée."
     },
     "type_question": {
       "type": "string",
@@ -50,85 +41,155 @@
         "synthèse multi-documents",
         "raisonnement causal",
         "comparatif",
-        "suivi de conversation",
-        "robustesse"
+        "robustesse",
+        "suivi de conversation"
       ],
-      "description": "Catégorie cognitive de la question."
+      "description": "Type de question posée au modèle."
+    },
+    "categorie_cognitive": {
+      "type": ["string", "null"],
+      "enum": ["rappel", "compréhension", "application", "analyse", "évaluation", "création"],
+      "description": "Catégorie cognitive selon la taxonomie de Bloom (facultative)."
     },
     "difficulty": {
       "type": "string",
       "enum": ["facile", "intermédiaire", "difficile"],
-      "description": "Niveau de complexité (évaluation manuelle ou heuristique)."
+      "description": "Niveau de difficulté de la question."
     },
     "profile": {
       "type": "string",
-      "enum": ["patient", "professionnel"],
-      "description": "Type d’utilisateur visé par la question."
+      "enum": ["patient", "professionnel", "chercheur", "association"],
+      "description": "Type d’utilisateur ciblé."
     },
-    "metadata": {
-      "type": "object",
-      "description": "Métadonnées de suivi et d’annotation.",
-      "required": ["created_at"],
-      "properties": {
-        "created_at": {
-          "type": "string",
-          "format": "date-time",
-          "description": "Horodatage ISO 8601 de la création."
-        },
-        "annotator": { "type": ["string", "null"], "description": "Nom ou identifiant de l’annotateur." },
-        "validated": { "type": "boolean", "default": false },
-        "source_files": {
-          "type": "array",
-          "items": { "type": "string" },
-          "description": "Liste des fichiers d’où proviennent les contextes."
-        },
-        "auto_generated": {
-          "type": "object",
-          "properties": {
-            "query": { "type": "boolean" },
-            "ground_truth": { "type": "boolean" },
-            "contexts": { "type": "boolean" },
-            "labels": { "type": "boolean" }
-          }
-        },
-        "tags": {
-          "type": "array",
-          "items": { "type": "string" },
-          "description": "Mots-clés thématiques (ex: 'mitochondrie', 'variant', 'diagnostic')."
-        }
-      }
+    "status": {
+      "type": "string",
+      "enum": ["généré", "annoté", "validé"],
+      "description": "Statut d’annotation ou de validation de la question."
     },
-    "generated_answer": {
-      "type": ["string", "null"],
-      "description": "Réponse produite par le modèle RAG (pour comparaison avec ground_truth)."
-    },
-    "evaluation_scores": {
-      "type": ["object", "null"],
-      "description": "Scores RAGAS calculés pour cet exemple.",
-      "properties": {
-        "faithfulness": { "type": "number" },
-        "answer_relevance": { "type": "number" },
-        "context_precision": { "type": "number" },
-        "context_recall": { "type": "number" }
-      }
-    },
-    "feedback": {
-      "type": ["string", "null"],
-      "description": "Commentaire libre de l’évaluateur."
-    },
-    "linked_questions": {
-      "type": ["array", "null"],
-      "items": { "type": "string" },
-      "description": "Liste d’identifiants d’autres questions du même sujet ou fil de conversation."
+    "source_dataset": {
+      "type": "string",
+      "description": "Nom du dataset source (clinvar, genereviews, omim, etc.)."
     },
     "language": {
       "type": "string",
       "default": "fr",
       "description": "Langue de la question et des réponses."
     },
-    "version": {
-      "type": ["string", "null"],
-      "description": "Version du corpus (ex: ClinVar v2025)."
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Liste de mots-clés thématiques."
+    },
+
+    "chunk_metadata": {
+      "type": "object",
+      "description": "Métadonnées sur les passages de référence utilisés pour générer la question.",
+      "required": ["chunk_ids", "source"],
+      "properties": {
+        "chunk_ids": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "description": "Identifiants des chunks sources."
+        },
+        "source": { "type": "string", "description": "Nom du corpus source." },
+        "doc_name": { "type": ["string", "null"], "description": "Nom du document source." },
+        "section": { "type": ["string", "null"], "description": "Section du document source." },
+        "page": { "type": ["integer", "null"], "description": "Numéro de page si applicable." },
+        "type_support": { "type": ["string", "null"], "description": "Type de contenu (texte, liste, tableau, etc.)." }
+      }
+    },
+
+    "retrieved_documents": {
+      "type": "array",
+      "description": "Résultats bruts renvoyés par le retriever avant filtrage contextuel.",
+      "items": {
+        "type": "object",
+        "required": ["retriever", "documents"],
+        "properties": {
+          "retriever": { "type": "string", "description": "Nom du modèle ou algorithme de retrieval utilisé." },
+          "retrieved_at": { "type": ["string", "null"], "format": "date-time" },
+          "documents": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["chunk_id", "text"],
+              "properties": {
+                "chunk_id": { "type": "integer" },
+                "source": { "type": ["string", "null"] },
+                "doc_name": { "type": ["string", "null"] },
+                "text": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "evaluations": {
+      "type": "array",
+      "description": "Liste des évaluations RAG effectuées pour cette question (multi-modèles / multi-retrievers).",
+      "items": {
+        "type": "object",
+        "required": ["system_id", "retriever_used", "generated_answer", "evaluation_scores"],
+        "properties": {
+          "system_id": {
+            "type": "string",
+            "description": "Nom ou identifiant du modèle génératif (ex: qwen2-72b, llama3-70b)."
+          },
+          "retriever_used": {
+            "type": "string",
+            "description": "Nom du retriever utilisé pour cette évaluation."
+          },
+          "evaluation_id": {
+            "type": ["string", "null"],
+            "description": "Identifiant unique de l’évaluation (UUID ou hash)."
+          },
+          "evaluated_at": {
+            "type": ["string", "null"],
+            "format": "date-time",
+            "description": "Date de l’évaluation."
+          },
+          "contexts_used": {
+            "type": "array",
+            "description": "Passages transmis au modèle pour génération (après sélection).",
+            "items": {
+              "type": "object",
+              "required": ["chunk_id", "text"],
+              "properties": {
+                "chunk_id": { "type": "integer" },
+                "source": { "type": ["string", "null"] },
+                "doc_name": { "type": ["string", "null"] },
+                "text": { "type": "string" }
+              }
+            }
+          },
+          "generated_answer": {
+            "type": "string",
+            "description": "Réponse produite par le modèle sur la base des contextes fournis."
+          },
+          "evaluation_scores": {
+            "type": "object",
+            "description": "Scores RAGAs ou équivalents obtenus pour cette évaluation.",
+            "properties": {
+              "faithfulness": { "type": "number", "minimum": 0, "maximum": 1 },
+              "answer_relevance": { "type": "number", "minimum": 0, "maximum": 1 },
+              "context_precision": { "type": "number", "minimum": 0, "maximum": 1 },
+              "context_recall": { "type": "number", "minimum": 0, "maximum": 1 },
+              "score_global": { "type": "number", "minimum": 0, "maximum": 1 }
+            }
+          },
+          "evaluation_metadata": {
+            "type": "object",
+            "description": "Métadonnées de l’évaluation.",
+            "properties": {
+              "method": { "type": ["string", "null"], "description": "Méthode ou outil d’évaluation (ex: RAGAs v1.2)." },
+              "evaluator": { "type": ["string", "null"], "description": "Agent ayant évalué la réponse (auto, humain, LLM...)." },
+              "evaluation_status": { "type": ["string", "null"], "enum": ["auto", "human_validated", "to_review"] },
+              "feedback": { "type": ["string", "null"], "description": "Commentaire qualitatif sur la réponse générée." }
+            }
+          }
+        }
+      }
     }
   }
 }

@@ -1,59 +1,112 @@
 {
-  "id": "uuid-5678",
+  "question_id": "q_5678_rs1234_clinvar",
+  "created_at": "2025-10-13T18:15:00Z",
   "query": "Quelle est la signification clinique du variant rs1234 ?",
-  "ground_truth": "Pathogenic",
-  "context_v1": [
-    {
-      "text": "ClinVar: rs1234 est classé pathogène et associé à la neuropathie optique de Leber.",
-      "source": "ClinVar",
-      "document": "clinvar_2025.json",
-      "page": null,
-      "position": "entry 3412",
-      "type": "text"
-    }
-  ],
-  "context_v2": [
-    {
-      "text": "ClinVar: rs1234 est classé pathogène et associé à la neuropathie optique de Leber.",
-      "source": "ClinVar",
-      "document": "clinvar_2025.json",
-      "page": null,
-      "position": "entry 3412",
-      "type": "text"
-    },
-    {
-      "text": "MitoCarta3: Le gène MT-ND1 est impliqué dans la fonction mitochondriale.",
-      "source": "MitoCarta3",
-      "document": "mitocarta3_genes.json",
-      "page": null,
-      "position": "line 1450-1460",
-      "type": "text"
-    }
-  ],
+  "ground_truth": "Pathogène (associé à la neuropathie optique de Leber)",
   "type_question": "faits-directs",
+  "categorie_cognitive": "rappel",
   "difficulty": "facile",
   "profile": "professionnel",
-  "metadata": {
-    "created_at": "2025-10-13T18:15:00Z",
-    "annotator": "Alice",
-    "validated": true,
-    "source_files": ["clinvar_2025.json", "mitocarta3_genes.json"],
-    "auto_generated": {
-      "query": true,
-      "ground_truth": true,
-      "contexts": false,
-      "labels": false
+  "status": "annoté",
+  "source_dataset": "clinvar",
+  "tags": ["ClinVar", "variant", "pathogenicity", "question_rag"],
+
+  "chunk_metadata": {
+    "chunk_ids": [3412],
+    "source": "clinvar",
+    "doc_name": "clinvar_2025.json",
+    "section": "variant_entry",
+    "page": null,
+    "type_support": "text"
+  },
+
+  "retrieved_documents": [
+    {
+      "retriever": "bm25",
+      "retrieved_at": "2025-10-14T09:58:00Z",
+      "documents": [
+        {
+          "chunk_id": 3412,
+          "source": "clinvar",
+          "doc_name": "clinvar_2025.json",
+          "text": "ClinVar : rs1234 est classé pathogène et associé à la neuropathie optique de Leber."
+        },
+        {
+          "chunk_id": 1450,
+          "source": "mitocarta3",
+          "doc_name": "mitocarta3_genes.json",
+          "text": "Le gène MT-ND1 est impliqué dans la fonction mitochondriale."
+        }
+      ]
+    }
+  ],
+
+  "evaluations": [
+    {
+      "system_id": "qwen2-72b",
+      "retriever_used": "bm25",
+      "evaluation_id": "eval_001_qwen2",
+      "evaluated_at": "2025-10-14T10:00:00Z",
+
+      "contexts_used": [
+        {
+          "chunk_id": 3412,
+          "source": "clinvar",
+          "text": "ClinVar : rs1234 est classé pathogène et associé à la neuropathie optique de Leber."
+        }
+      ],
+
+      "generated_answer": "Le variant rs1234 est classé pathogène selon ClinVar et associé à la neuropathie optique de Leber.",
+
+      "evaluation_scores": {
+        "faithfulness": 0.95,
+        "answer_relevance": 0.90,
+        "context_precision": 0.85,
+        "context_recall": 0.80,
+        "score_global": 0.88
+      },
+
+      "evaluation_metadata": {
+        "method": "RAGAs v1.2",
+        "evaluator": "auto",
+        "feedback": "Bonne fidélité au contexte, mais formulation générique."
+      }
     },
-    "tags": ["ClinVar", "variant", "pathogenicity"]
-  },
-  "generated_answer": "Ce variant rs1234 est pathogène et associé à la neuropathie optique de Leber.",
-  "evaluation_scores": {
-    "faithfulness": 0.95,
-    "answer_relevance": 0.90,
-    "context_precision": 0.85,
-    "context_recall": 0.80
-  },
-  "feedback": "Bonne cohérence avec le contexte, mais la réponse est un peu trop générale.",
-  "language": "fr",
-  "version": "ClinVar v2025"
+
+    {
+      "system_id": "llama3-70b",
+      "retriever_used": "hybrid",
+      "evaluation_id": "eval_002_llama3",
+      "evaluated_at": "2025-10-15T09:30:00Z",
+
+      "contexts_used": [
+        {
+          "chunk_id": 3412,
+          "source": "clinvar",
+          "text": "ClinVar : rs1234 est classé pathogène et associé à la neuropathie optique de Leber."
+        },
+        {
+          "chunk_id": 1450,
+          "source": "mitocarta3",
+          "text": "Le gène MT-ND1 est impliqué dans la fonction mitochondriale."
+        }
+      ],
+
+      "generated_answer": "Selon ClinVar, le variant rs1234 est pathogène et lié à la neuropathie optique de Leber, affectant la fonction mitochondriale.",
+      
+      "evaluation_scores": {
+        "faithfulness": 0.98,
+        "answer_relevance": 0.92,
+        "context_precision": 0.87,
+        "context_recall": 0.83,
+        "score_global": 0.90
+      },
+
+      "evaluation_metadata": {
+        "method": "RAGAs v1.2",
+        "evaluator": "human_validated",
+        "feedback": "Réponse plus nuancée et contextualisée que Qwen."
+      }
+    }
+  ]
 }
